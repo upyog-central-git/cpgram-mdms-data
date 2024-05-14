@@ -26040,6 +26040,78 @@
       "actionid": 2547,
       "actioncode": "",
       "tenantId": "pg"
+    },
+	{
+      "rolecode": "COMPLAINANT",
+      "actionid": 2548,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "COMPLAINT_ASSESSOR",
+      "actionid": 2549,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+	{
+      "rolecode": "COMPLAINT_RESOLVER",
+      "actionid": 2549,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+	{
+      "rolecode": "COMPLAINT_CLOSER",
+      "actionid": 2549,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "COMPLAINT_ASSESSOR",
+      "actionid": 2550,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+	{
+      "rolecode": "COMPLAINT_RESOLVER",
+      "actionid": 2550,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+	{
+      "rolecode": "COMPLAINT_CLOSER",
+      "actionid": 2550,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+	   {
+      "rolecode": "COMPLAINT_CLOSER",
+      "actionid": 2551,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2551,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "COMPLAINT_RESOLVER",
+      "actionid": 2551,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "COMPLAINT_ASSESSOR",
+      "actionid": 2551,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+	  {
+      "rolecode": "COMPLAINANT",
+      "actionid": 2551,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }

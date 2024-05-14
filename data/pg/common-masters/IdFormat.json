@@ -709,6 +709,10 @@
         {
             "format": "SW_AP/[CITY.CODE]/[fy:yyyy-yy]/DC-[SEQ_SW_APP_[TENANT_ID]]",
             "idname": "sewerageservice.disconnection.id"
+        },
+		{
+            "format": "[CITY.CODE]-[cy:ddMMyy]-[SEQ_EGOV_COMMON]",
+            "idname": "im.incidentId"
         }
     ]
 }

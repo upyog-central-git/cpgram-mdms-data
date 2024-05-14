@@ -5259,7 +5259,7 @@
          "parentModule": "egov-hrms",
          "displayName": "Employee Create",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "egov-hrms",
          "code": "null",
          "path": ""
@@ -5271,7 +5271,7 @@
          "parentModule": "egov-hrms",
          "displayName": "Employee Update",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "egov-hrms",
          "code": "null",
          "path": ""
@@ -5283,7 +5283,7 @@
          "parentModule": "egov-hrms",
          "displayName": "Employee Search",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "egov-hrms",
          "code": "null",
          "path": ""
@@ -14968,6 +14968,54 @@
       "serviceCode": "MDMS",
       "code": "null",
       "path": ""
-    }
+    },
+	{
+      "id": 2548,
+      "name": "",
+      "url":"/im-services/v2/request/_create",
+      "displayName": "Im Create",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "rainmaker-im",
+      "code": "null",
+      "path": ""
+    },
+	{
+      "id": 2549,
+      "name": "",
+      "url":"/im-services/v2/request/_update",
+      "displayName": "Im Update",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "rainmaker-im",
+      "code": "null",
+      "path": ""
+    },
+	{
+      "id": 2550,
+      "name": "",
+      "url":"/im-services/v2/request/_search",
+      "displayName": "Im Search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "rainmaker-im",
+      "code": "null",
+      "path": ""
+    },
+    {
+         "id": 2551,
+         "name": "Search PGR Request",
+         "url": "/im-services/v2/request/_count",
+         "parentModule": "",
+         "displayName": "Count IM Request",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "im-services",
+         "code": "null",
+         "path": ""
+      }
    ]
 }

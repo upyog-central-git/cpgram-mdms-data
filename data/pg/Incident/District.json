@@ -1,0 +1,12 @@
+{
+  "tenantId": "pg",
+  "moduleName": "Incident",
+  "District": [
+	{
+      "code": "RAICHUR",
+      "name": "Raichur",
+      "active": true
+    }
+  ]
+  
+}
