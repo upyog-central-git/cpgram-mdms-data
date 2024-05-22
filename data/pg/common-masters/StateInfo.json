@@ -21,8 +21,8 @@
           "value": "en_IN"
         },
         {
-          "label": "हिंदी",
-          "value": "hi_IN"
+          "label": "ಕನ್ನಡ",
+          "value": "ka_IN"
         }
       ],
       "localizationModules": [
@@ -89,6 +89,10 @@
         {
           "label": "rainmaker-mdms",
           "value": "rainmaker-mdms"
+        },
+		{
+          "label": "rainmaker-im",
+          "value": "rainmaker-im"
         }
       ]
     }

@@ -11791,7 +11791,8 @@
       "actionid": 1800,
       "actioncode": "",
       "tenantId": "pg"
-    },{
+    },
+    {
       "rolecode": "NOC_DOC_VERIFIER",
       "actionid": 1800,
       "actioncode": "",
@@ -24859,7 +24860,7 @@
       "actioncode": "",
       "tenantId": "pg"
     },
-		{
+    {
       "rolecode": "FSM_ADMIN",
       "actionid": 2410,
       "actioncode": "",
@@ -24895,7 +24896,7 @@
       "actioncode": "",
       "tenantId": "pg"
     },
-		{
+    {
       "rolecode": "FSM_ADMIN",
       "actionid": 2411,
       "actioncode": "",
@@ -24932,14 +24933,14 @@
       "tenantId": "pg"
     },
     {
-        "rolecode": "FSM_EMP_FSTPO",
-        "actionid": 2412,
-        "actioncode": "",
-        "tenantId": "pg"
+      "rolecode": "FSM_EMP_FSTPO",
+      "actionid": 2412,
+      "actioncode": "",
+      "tenantId": "pg"
     },
     {
-       "rolecode": "FSM_ADMIN",
-       "actionid": 2413,
+      "rolecode": "FSM_ADMIN",
+      "actionid": 2413,
       "actioncode": "",
       "tenantId": "pg"
     },
@@ -25655,7 +25656,7 @@
       "rolecode": "PT_FIELD_INSPECTOR",
       "actionid": 1957,
       "actioncode": "",
-      "tenantId": "pg"	  
+      "tenantId": "pg"
     },
     {
       "rolecode": "EMPLOYEE",
@@ -25777,7 +25778,7 @@
       "actioncode": "",
       "tenantId": "pg"
     },
-	{
+    {
       "rolecode": "FSM_CREATOR_EMP",
       "actionid": 2503,
       "actioncode": "",
@@ -25795,7 +25796,7 @@
       "actioncode": "",
       "tenantId": "pg"
     },
-	 {
+    {
       "rolecode": "FSM_CREATOR_EMP",
       "actionid": 2504,
       "actioncode": "",
@@ -26041,7 +26042,7 @@
       "actioncode": "",
       "tenantId": "pg"
     },
-	{
+    {
       "rolecode": "COMPLAINANT",
       "actionid": 2548,
       "actioncode": "",
@@ -26053,13 +26054,13 @@
       "actioncode": "",
       "tenantId": "pg"
     },
-	{
+    {
       "rolecode": "COMPLAINT_RESOLVER",
       "actionid": 2549,
       "actioncode": "",
       "tenantId": "pg"
     },
-	{
+    {
       "rolecode": "COMPLAINT_CLOSER",
       "actionid": 2549,
       "actioncode": "",
@@ -26071,19 +26072,19 @@
       "actioncode": "",
       "tenantId": "pg"
     },
-	{
+    {
       "rolecode": "COMPLAINT_RESOLVER",
       "actionid": 2550,
       "actioncode": "",
       "tenantId": "pg"
     },
-	{
+    {
       "rolecode": "COMPLAINT_CLOSER",
       "actionid": 2550,
       "actioncode": "",
       "tenantId": "pg"
     },
-	   {
+    {
       "rolecode": "COMPLAINT_CLOSER",
       "actionid": 2551,
       "actioncode": "",
@@ -26107,9 +26108,81 @@
       "actioncode": "",
       "tenantId": "pg"
     },
-	  {
+    {
       "rolecode": "COMPLAINANT",
       "actionid": 2551,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "COMPLAINANT",
+      "actionid": 604,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "COMPLAINT_ASSESSOR",
+      "actionid": 604,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "COMPLAINT_RESOLVER",
+      "actionid": 604,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 604,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "COMPLAINT_ASSESSOR",
+      "actionid": 2553,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "COMPLAINT_RESOLVER",
+      "actionid": 2553,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "COMPLAINT_CLOSER",
+      "actionid": 2553,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "COMPLAINANT",
+      "actionid": 2554,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "COMPLAINANT",
+      "actionid": 2553,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "AUTO_ESCALATE",
+      "actionid": 2605,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2605,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+     {
+      "rolecode": "COMPLAINANT",
+      "actionid": 2550,
       "actioncode": "",
       "tenantId": "pg"
     }

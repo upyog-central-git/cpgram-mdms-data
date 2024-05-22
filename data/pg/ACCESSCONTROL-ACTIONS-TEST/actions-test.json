@@ -3001,7 +3001,7 @@
          "displayName": "Open Complaints",
          "orderNumber": 1,
          "parentModule": "rainmaker-pgr",
-         "enabled": true,
+         "enabled": false,
          "serviceCode": "PGR",
          "code": "null",
          "path": "Complaints.MyComplaints",
@@ -3016,7 +3016,7 @@
          "displayName": "Closed Complaints",
          "orderNumber": 1,
          "parentModule": "rainmaker-pgr",
-         "enabled": true,
+         "enabled": false,
          "serviceCode": "PGR",
          "code": "null",
          "path": "Complaints.Closed Complaints",
@@ -15007,7 +15007,7 @@
     },
     {
          "id": 2551,
-         "name": "Search PGR Request",
+         "name": "Search IM Request",
          "url": "/im-services/v2/request/_count",
          "parentModule": "",
          "displayName": "Count IM Request",
@@ -15016,6 +15016,48 @@
          "serviceCode": "im-services",
          "code": "null",
          "path": ""
+      },
+{
+         "id": 2553,
+         "name": "Search Ticket",
+         "url": "url",
+         "displayName": "Search Ticket",
+         "orderNumber": 1,
+         "parentModule": "rainmaker-pgr",
+         "enabled": true,
+         "serviceCode": "PGR",
+         "code": "null",
+         "path": "IM.SearchTicket",
+         "navigationURL": "/digit-ui/employee/im/inbox",
+         "leftIcon": "action:announcement",
+         "rightIcon": ""
+      },
+      {
+         "id": 2554,
+         "name": "New Ticket",
+         "url": "url",
+         "displayName": "New Ticket",
+         "orderNumber": 1,
+         "parentModule": "rainmaker-pgr",
+         "enabled": true,
+         "serviceCode": "PGR",
+         "code": "null",
+         "path": "IM.New Ticket",
+         "navigationURL": "/digit-ui/employee/im/incident/create",
+         "leftIcon": "action:announcement",
+         "rightIcon": ""
+      },
+      {
+      "id": 2555,
+      "name": "IM Workflow Escalation Update",
+      "url": "egov-workflow-v2/egov-wf/auto/Incident/_escalate",
+      "parentModule": "",
+      "displayName": "IM Workflow Escalation Update",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "egov-workflow-v2",
+      "code": "null",
+      "path": ""
       }
    ]
 }

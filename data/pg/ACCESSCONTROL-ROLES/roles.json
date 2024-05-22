@@ -707,26 +707,25 @@
       "name": "Localisation admin",
       "description": "LOC_ADMIN"
     },
-	{
-	  "code": "COMPLAINANT",
+    {
+      "code": "COMPLAINANT",
       "name": "Complainant",
       "description": "One who will create complaints"
     },
-	{
-	  "code": "COMPLAINT_ASSESSOR",
+    {
+      "code": "COMPLAINT_ASSESSOR",
       "name": "Complaint Assessor",
       "description": "One who will assess & assign complaints"
     },
-	{
-	  "code": "COMPLAINT_RESOLVER",
+    {
+      "code": "COMPLAINT_RESOLVER",
       "name": "Complaint Resolver",
       "description": "One who will resolve complaints"
     },
-	{
-	  "code": "COMPLAINT_CLOSER",
+    {
+      "code": "COMPLAINT_CLOSER",
       "name": "Complaint Closer",
       "description": "One who will close complaints"
     }
-		
   ]
 }
