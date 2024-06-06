@@ -711,7 +711,7 @@
             "idname": "sewerageservice.disconnection.id"
         },
 		{
-            "format": "[CITY.CODE]-[cy:ddMMyy]-[SEQ_EGOV_COMMON]",
+            "format": "[CITY.CODE]-[SEQ_EGOV_COMMON_[TENANT_ID]]",
             "idname": "im.incidentId"
         }
     ]
