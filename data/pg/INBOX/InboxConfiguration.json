@@ -14,18 +14,12 @@
         },
         {
           "name": "status",
-          "path": "Data.incident.applicationStatus",
+          "path": "Data.incident.applicationStatus.keyword",
           "isMandatory": false
         },
         {
-          "name": "mobileNumber",
-          "path": "Data.incident.reporter.mobileNumber",
-          "isMandatory": false,
-          "isHashingRequired": true
-        },
-        {
           "name": "assignee",
-          "path": "Data.workflow.assignes.keyword",
+          "path": "Data.currentProcessInstance.assignes.keyword",
           "isMandatory": false
         },
         {
@@ -50,7 +44,7 @@
           "path": "Data.incident.auditDetails.createdTime",
           "defaultOrder": "ASC"
       },
-      "sourceFilterPathList": ["Data.incident.auditDetails", "Data.incident.additionalDetails", "Data.incident.tenantId","Data.incident.incidentId","Data.workflow"]
+      "sourceFilterPathList": ["Data.incident.auditDetails", "Data.tenantId","Data.auditDetails","Data.incident.applicationStatus","Data.incident.additionalDetails", "Data.incident.tenantId","Data.incident.incidentId","Data.currentProcessInstance"]
     }
   ]
 }

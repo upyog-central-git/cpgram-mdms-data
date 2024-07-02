@@ -14978,6 +14978,17 @@
       "serviceCode": "inbox",
       "code": "null",
       "path": ""
+    },
+	    {
+      "id": 2557,
+      "name": "Inbox Search for UI",
+      "url": "/inbox/v2/_search",
+      "displayName": "Inbox  v2 Search",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "inbox",
+      "code": "null",
+      "path": ""
     }
    ]
 }
