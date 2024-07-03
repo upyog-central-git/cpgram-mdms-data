@@ -8,6 +8,30 @@
       "name": "Raichur",
       "districtCode": "RAICHUR",
       "active": true
+    },
+     {
+      "code": "raichur.manvi",
+      "name": "Manvi",
+      "districtCode": "RAICHUR",
+      "active": true
+    },
+     {
+      "code": "raichur.lingasugur",
+      "name": "Lingasugur",
+      "districtCode": "RAICHUR",
+      "active": true
+    },
+     {
+      "code": "raichur.sindhanur",
+      "name": "Sindhanur",
+      "districtCode": "RAICHUR",
+      "active": true
+    },
+    {
+      "code": "raichur.devadurga",
+      "name": "Devadurga",
+      "districtCode": "RAICHUR",
+      "active": true
     }
   ]
 }
