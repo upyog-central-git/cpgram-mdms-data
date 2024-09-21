@@ -6,6 +6,11 @@
       "code": "RAICHUR",
       "name": "Raichur",
       "active": true
+    },
+	  {
+      "code": "MYSURU",
+      "name": "Mysuru",
+      "active": true
     }
   ]
   

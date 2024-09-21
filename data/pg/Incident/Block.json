@@ -32,6 +32,12 @@
       "name": "Devadurga",
       "districtCode": "RAICHUR",
       "active": true
+    },
+        {
+      "code": "mysuru.hdkote",
+      "name": "HDKote",
+      "districtCode": "MYSURU",
+      "active": true
     }
   ]
 }

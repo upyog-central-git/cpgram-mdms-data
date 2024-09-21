@@ -1,0 +1,26 @@
+{
+    "tenantId": "pg",
+    "moduleName": "Incident",
+    "RejectReasons": [
+        {
+            "name": "Reason 1",
+            "code": "Reason_one",
+            "active": true
+        },
+        {
+            "name": "Reason 2",
+            "code": "Reason_two",
+            "active": true
+        },
+        {
+            "name": "Reason 3",
+            "code": "Reason_three",
+            "active": true
+        },
+        {
+            "name": "Reason 4",
+            "code": "Reason_four",
+            "active": true
+        }    
+    ]
+}
