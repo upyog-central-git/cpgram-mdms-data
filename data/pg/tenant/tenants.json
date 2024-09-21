@@ -3405,77 +3405,7 @@
     "address": "Karnataka",
     "contactNumber": "9980467005"
   },
-   {
-      "code": "pg.dummy",
-      "name": "Dummy Primary Health Centre",
-      "description": "Dummy Primary Health Centre",
-      "centreType": "Primary Health Centre",
-      "pincode": null,
-      "domainUrl": "https://e4h-dev.selcofoundation.org",
-      "type": "PHC",
-      "logoId": "https://selco-assets.s3.ap-south-1.amazonaws.com/logo.png",
-      "imageId": null,
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "city": {
-        "name": "Dummy",
-        "localName": null,
-        "districtCode": "RAICHUR",
-        "districtName": "Raichur",
-        "blockCode": "raichur.raichur",
-        "districtTenantCode": "pg.dummy",
-        "regionName": null,
-        "ulbGrade": null,
-        "longitude": null,
-        "latitude": null,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "KA-RCH-123",
-        "centreCode": "KA-111-03-185",
-        "ddrName": null
-      },
-      "address": "Karnataka",
-      "contactNumber": "9986067450"
-    },
-     {
-      "code": "pg.dummya",
-      "name": "DummyA Primary Health Centre",
-      "description": "DummyA Primary Health Centre",
-      "centreType": "Primary Health Centre",
-      "pincode": null,
-      "domainUrl": "https://e4h-dev.selcofoundation.org",
-      "type": "PHC",
-      "logoId": "https://selco-assets.s3.ap-south-1.amazonaws.com/logo.png",
-      "imageId": null,
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "city": {
-        "name": "Dummy A",
-        "localName": null,
-        "districtCode": "RAICHUR",
-        "districtName": "Raichur",
-        "blockCode": "raichur.raichur",
-        "districtTenantCode": "pg.dummya",
-        "regionName": null,
-        "ulbGrade": null,
-        "longitude": null,
-        "latitude": null,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "KA-RCH-163",
-        "centreCode": "KA-111-03-185",
-        "ddrName": null
-      },
-      "address": "Karnataka",
-      "contactNumber": "9986067450"
-    },
-
+   
       {
       "code": "pg.gunjahalliphc",
       "name": "Gunjahalli PHC",
