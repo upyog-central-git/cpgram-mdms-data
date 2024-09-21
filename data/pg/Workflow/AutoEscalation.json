@@ -8,7 +8,7 @@
         "state": "RESOLVED",
         "action": "CLOSE",
         "active": "true",
-        "stateSLA": 0.05,
+        "stateSLA": 3.0,
         "businessSLA": null,
         "topic": "im-auto-escalation"
       }
