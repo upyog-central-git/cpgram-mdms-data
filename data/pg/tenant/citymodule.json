@@ -2180,7 +2180,10 @@
       },
          {
           "code": "pg.anwari"
-      }
+      },
+        {
+          "code":"pg.pothnaldrroomsubcentre"
+        }
       
       ]
     }
