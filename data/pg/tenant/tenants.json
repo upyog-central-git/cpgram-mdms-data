@@ -5072,7 +5072,7 @@
       "contactNumber": "9845844124"
     },
     {
-      "code": "pg.hkotnekaldrroomsubcentre",
+      "code": "pg.hkotnekaldroomsubcentre",
       "name": "H.kotnekal Dr. Room Sub Centre",
       "description": "H.kotnekal Dr. Room Sub Centre",
       "centreType": "Sub centre",
@@ -5092,7 +5092,7 @@
         "districtCode": "RAICHUR",
         "districtName": "Raichur",
         "blockCode": "raichur.manvi",
-        "districtTenantCode": "pg.hkotnekaldrroomsubcentre",
+        "districtTenantCode": "pg.hkotnekaldroomsubcentre",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
