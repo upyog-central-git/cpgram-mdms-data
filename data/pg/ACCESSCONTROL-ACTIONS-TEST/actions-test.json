@@ -14604,7 +14604,127 @@
       "serviceCode": "",
       "code": "null",
       "path": ""
-    }	   
+    },
+   {
+      "id": 2614,
+      "name": "MDMS v2 create",
+      "url": "/mdms-v2/schema/v1/_create",
+      "parentModule": "",
+      "displayName": "MDMS v2",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "MDMS v2",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2615,
+      "name": "MDMS v2 Search",
+      "url": "/mdms-v2/schema/v1/_search",
+      "parentModule": "",
+      "displayName": "MDMS v2",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "MDMS v2",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2616,
+      "name": "MDMS v2 (search v2)",
+      "url": "/mdms-v2/v2/_search",
+      "parentModule": "",
+      "displayName": "MDMS v2",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "MDMS v2",
+      "code": "null",
+      "path": ""
+    },
+	    {
+      "id": 2617,
+      "name": "MDMS",
+      "url":"/mdms-v2/v2/_create/RAINMAKER-PGR.UIConstants",
+      "displayName": "Create RAINMAKER-PGR.UIConstants",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2618,
+      "name": "MDMS",
+      "url":"/mdms-v2/v2/_update/RAINMAKER-PGR.UIConstants",
+      "displayName": "Update RAINMAKER-PGR.UIConstants",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2619,
+      "name": "MDMS",
+      "url":"/mdms-v2/v2/_create/RAINMAKER-PGR.ComplainClosingTime",
+      "displayName": "Create RAINMAKER-PGR.ComplainClosingTime",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2620,
+      "name": "MDMS",
+      "url":"/mdms-v2/v2/_update/RAINMAKER-PGR.ComplainClosingTime",
+      "displayName": "Update RAINMAKER-PGR.ComplainClosingTime",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2621,
+      "name": "MDMS",
+      "url":"/mdms-v2/v2/_create/RAINMAKER-PGR.ServiceDefs",
+      "displayName": "Create RAINMAKER-PGR.ServiceDefs",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2622,
+      "name": "MDMS",
+      "url":"/mdms-v2/v2/_update/RAINMAKER-PGR.ServiceDefs",
+      "displayName": "Update RAINMAKER-PGR.ServiceDefs",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2623,
+      "name": "MDMS v2 (search v2)",
+      "url": "/mdms-v2/v1/_search",
+      "parentModule": "",
+      "displayName": "MDMS v2",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "MDMS v2",
+      "code": "null",
+      "path": ""
+    }
     
    ]
 }
