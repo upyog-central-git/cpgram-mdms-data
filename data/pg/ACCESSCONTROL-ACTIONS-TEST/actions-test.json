@@ -14724,7 +14724,31 @@
       "serviceCode": "MDMS v2",
       "code": "null",
       "path": ""
-    }
+    },
+    {
+      "id": 2630,
+      "name": "create organization",
+      "url": "/egov-mdms-service/v1/org/_create",
+      "displayName": "create organization",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2631,
+      "name": "create office",
+      "url": "/egov-mdms-service/v1/ofc/_create",
+      "displayName": "create office",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    }	
     
    ]
 }
