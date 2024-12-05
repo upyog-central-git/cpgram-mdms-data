@@ -14762,6 +14762,30 @@
       "navigationURL": "/workbench-ui/employee",
       "path": "Workbench",
       "leftIcon": "image:collections-bookmark"
+    },
+    {
+      "id": 2635,
+      "name": "update office",
+      "url": "/egov-mdms-service/v1/ofc/_update",
+      "displayName": "update office",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2636,
+      "name": "update organization",
+      "url": "/egov-mdms-service/v1/org/_update",
+      "displayName": "update organization",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
     }
     
    ]
