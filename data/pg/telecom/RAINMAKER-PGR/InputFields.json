@@ -1,0 +1,30 @@
+{
+    "tenantId": "pg.telecom",
+    "moduleName": "RAINMAKER_PGR",
+    "InputFields": [
+        {
+            "id": "1",
+            "code": "1",
+            "fieldName": "MobileNumber",
+            "displayLabel": "Mobile Number",
+            "active": true
+          
+        },
+        {
+           "id": "2",
+            "code": "1",
+            "fieldName": "ServiceProvider",
+            "displayLabel": "Service Provider",
+            "active": true
+
+        },
+        {
+            "id": 3,
+            "code": "1",
+            "fieldName": "Circle",
+            "displayLabel": "Circle,
+            "active": true
+
+        }
+    ]
+}
