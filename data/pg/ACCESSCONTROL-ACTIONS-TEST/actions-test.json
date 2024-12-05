@@ -14748,7 +14748,21 @@
       "serviceCode": "",
       "code": "null",
       "path": ""
-    }	
+    },
+	     {
+      "id": 2634,
+      "name": "Workbench",
+      "url": "url",
+      "displayName": "Workbench",
+      "orderNumber": 4,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "Workbench",
+      "code": "null",
+      "navigationURL": "/workbench-ui/employee",
+      "path": "Workbench",
+      "leftIcon": "image:collections-bookmark"
+    }
     
    ]
 }
