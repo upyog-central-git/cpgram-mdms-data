@@ -1,0 +1,26 @@
+{
+   "tenantId": "pg.telecom",
+   "moduleName": "RAINMAKER_PGR",
+   "GrievanceCategory": [
+      {
+         "id": 2,
+         "description": "Mobile Related",
+         "fieldCode": null,
+         "OrgCode": "DOTEL",
+         "parent": null,
+         "stage": 2,
+         "monitoringCode": "0506",
+         "enabled": true
+      },
+      {
+         "id":11,
+         "description": "Call Drop",
+         "fieldCode": 1,
+         "OrgCode": "DOTEL",
+         "parent": 2,
+         "stage": 3,
+         "monitoringCode": "0506",
+         "enabled": true
+      }
+   ]
+}
