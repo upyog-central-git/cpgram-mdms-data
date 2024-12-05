@@ -23,6 +23,9 @@
         },
         {
           "code": "pg.citye"
+        },
+	      {
+          "code": "pg.telecom"
         }
 
       ]
