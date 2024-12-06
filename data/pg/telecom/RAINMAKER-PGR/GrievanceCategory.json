@@ -2,25 +2,596 @@
    "tenantId": "pg.telecom",
    "moduleName": "RAINMAKER_PGR",
    "GrievanceCategory": [
-      {
-         "id": 2,
-         "description": "Mobile Related",
-         "fieldCode": null,
-         "OrgCode": "DOTEL",
-         "parent": null,
-         "stage": 2,
-         "monitoringCode": "0506",
-         "enabled": true
-      },
-      {
-         "id":11,
-         "description": "Call Drop",
-         "fieldCode": 1,
-         "OrgCode": "DOTEL",
-         "parent": 2,
-         "stage": 3,
-         "monitoringCode": "0506",
-         "enabled": true
-      }
+     {
+            "id": "2",
+            "description": "Mobile Related",
+            "fieldCode": null,
+            "OrgCode": "DOTEL",
+            "parent": "1",
+            "stage": "2",
+            "monitoringCode": "0506",
+            "enabled": true
+        },
+        {
+            "id": "3",
+            "description": "Pension Related",
+            "fieldCode": null,
+            "OrgCode": "DOTEL",
+            "parent": "1",
+            "stage": "2",
+            "monitoringCode": "0102",
+            "enabled": true
+        },
+        {
+            "id": "4",
+            "description": "Broadband Related",
+            "fieldCode": null,
+            "OrgCode": "DOTEL",
+            "parent": "1",
+            "stage": "2",
+            "monitoringCode": "0506",
+            "enabled": true
+        },
+        {
+            "id": "5",
+            "description": "Landline Related",
+            "fieldCode": null,
+            "OrgCode": "DOTEL",
+            "parent": "1",
+            "stage": "2",
+            "monitoringCode": "0506",
+            "enabled": true
+        },
+        {
+            "id": "6",
+            "description": "Employee Related / Services Related",
+            "fieldCode": null,
+            "OrgCode": "DOTEL",
+            "parent": "1",
+            "stage": "2",
+            "monitoringCode": "0101",
+            "enabled": true
+        },
+        {
+            "id": "7",
+            "description": "Tower Related",
+            "fieldCode": null,
+            "OrgCode": "DOTEL",
+            "parent": "1",
+            "stage": "2",
+            "monitoringCode": "0506",
+            "enabled": true
+        },
+        {
+            "id": "8",
+            "description": "Malpractices / Corruption / Complaint Related to financial irregularities",
+            "fieldCode": null,
+            "OrgCode": "DOTEL",
+            "parent": "1",
+            "stage": "2",
+            "monitoringCode": "0301",
+            "enabled": true
+        },
+        {
+            "id": "9",
+            "description": "Suggestions",
+            "fieldCode": null,
+            "OrgCode": "DOTEL",
+            "parent": "1",
+            "stage": "2",
+            "monitoringCode": "2101",
+            "enabled": true
+        },
+        {
+            "id": "10",
+            "description": "Others",
+            "fieldCode": null,
+            "OrgCode": "DOTEL",
+            "parent": "1",
+            "stage": "2",
+            "monitoringCode": "1799",
+            "enabled": true
+        },
+        {
+            "id": "11",
+            "description": "Call Drop",
+            "fieldCode": "1",
+            "OrgCode": "DOTEL",
+            "parent": "2",
+            "stage": "3",
+            "monitoringCode": "0506",
+            "enabled": true
+        },
+        {
+            "id": "12",
+            "description": "Improper Network Coverage",
+            "fieldCode": "1",
+            "OrgCode": "DOTEL",
+            "parent": "2",
+            "stage": "3",
+            "monitoringCode": "0506",
+            "enabled": true
+        },
+        {
+            "id": "13",
+            "description": "Data Speed lower than commited",
+            "fieldCode": "1",
+            "OrgCode": "DOTEL",
+            "parent": "2",
+            "stage": "3",
+            "monitoringCode": "0506",
+            "enabled": true
+        },
+        {
+            "id": "14",
+            "description": "Mobile Number Portability (MNP)",
+            "fieldCode": "1",
+            "OrgCode": "DOTEL",
+            "parent": "2",
+            "stage": "3",
+            "monitoringCode": "0506",
+            "enabled": true
+        },
+        {
+            "id": "15",
+            "description": "UCC related complaints",
+            "fieldCode": "1",
+            "OrgCode": "DOTEL",
+            "parent": "2",
+            "stage": "3",
+            "monitoringCode": "0506",
+            "enabled": true
+        },
+        {
+            "id": "16",
+            "description": "Activation/Deactivation of Value Added Services without explicit consent",
+            "fieldCode": "1",
+            "OrgCode": "DOTEL",
+            "parent": "2",
+            "stage": "3",
+            "monitoringCode": "0506",
+            "enabled": true
+        },
+        {
+            "id": "17",
+            "description": "Activation/Deactivation/Fault of Sim Card",
+            "fieldCode": "1",
+            "OrgCode": "DOTEL",
+            "parent": "2",
+            "stage": "3",
+            "monitoringCode": "0506",
+            "enabled": true
+        },
+        {
+            "id": "18",
+            "description": "AADHAR Linking/Documents verification",
+            "fieldCode": "1",
+            "OrgCode": "DOTEL",
+            "parent": "2",
+            "stage": "3",
+            "monitoringCode": "0506",
+            "enabled": true
+        },
+        {
+            "id": "19",
+            "description": "Tariff / Recharge issue / Billing issue of Postpaid",
+            "fieldCode": "1",
+            "OrgCode": "DOTEL",
+            "parent": "2",
+            "stage": "3",
+            "monitoringCode": "0506",
+            "enabled": true
+        },
+        {
+            "id": "20",
+            "description": "No Network Coverage",
+            "fieldCode": "1",
+            "OrgCode": "DOTEL",
+            "parent": "2",
+            "stage": "3",
+            "monitoringCode": "0506",
+            "enabled": true
+        },
+        {
+            "id": "21",
+            "description": "Others",
+            "fieldCode": "1",
+            "OrgCode": "DOTEL",
+            "parent": "2",
+            "stage": "3",
+            "monitoringCode": "0506",
+            "enabled": true
+        },
+        {
+            "id": "22",
+            "description": "Pension not started / Pension stopped",
+            "fieldCode": "8",
+            "OrgCode": "DOTEL",
+            "parent": "3",
+            "stage": "3",
+            "monitoringCode": "0102",
+            "enabled": true
+        },
+        {
+            "id": "23",
+            "description": "Revision of Pension",
+            "fieldCode": "8",
+            "OrgCode": "DOTEL",
+            "parent": "3",
+            "stage": "3",
+            "monitoringCode": "0102",
+            "enabled": true
+        },
+        {
+            "id": "24",
+            "description": "Miscalculation in Pension",
+            "fieldCode": "8",
+            "OrgCode": "DOTEL",
+            "parent": "3",
+            "stage": "3",
+            "monitoringCode": "0102",
+            "enabled": true
+        },
+        {
+            "id": "25",
+            "description": "Adding beneficiary in PPO",
+            "fieldCode": "8",
+            "OrgCode": "DOTEL",
+            "parent": "3",
+            "stage": "3",
+            "monitoringCode": "0102",
+            "enabled": true
+        },
+        {
+            "id": "26",
+            "description": "Others",
+            "fieldCode": "8",
+            "OrgCode": "DOTEL",
+            "parent": "3",
+            "stage": "3",
+            "monitoringCode": "0102",
+            "enabled": true
+        },
+        {
+            "id": "27",
+            "description": "Delay in New BB Connection",
+            "fieldCode": "9",
+            "OrgCode": "DOTEL",
+            "parent": "4",
+            "stage": "3",
+            "monitoringCode": "0506",
+            "enabled": true
+        },
+        {
+            "id": "28",
+            "description": "Landline working but Internet not working/Frequent disconnection",
+            "fieldCode": "9",
+            "OrgCode": "DOTEL",
+            "parent": "4",
+            "stage": "3",
+            "monitoringCode": "0506",
+            "enabled": true
+        },
+        {
+            "id": "29",
+            "description": "Billing issue",
+            "fieldCode": "9",
+            "OrgCode": "DOTEL",
+            "parent": "4",
+            "stage": "3",
+            "monitoringCode": "0506",
+            "enabled": true
+        },
+        {
+            "id": "30",
+            "description": "Speed lower than committed",
+            "fieldCode": "9",
+            "OrgCode": "DOTEL",
+            "parent": "4",
+            "stage": "3",
+            "monitoringCode": "0506",
+            "enabled": true
+        },
+        {
+            "id": "31",
+            "description": "Others",
+            "fieldCode": "",
+            "OrgCode": "DOTEL",
+            "parent": "4",
+            "stage": "3",
+            "monitoringCode": "0506",
+            "enabled": true
+        },
+        {
+            "id": "32",
+            "description": "Delay or issue in providing New Telephone Connection/Shifting/Change of Name",
+            "fieldCode": "",
+            "OrgCode": "DOTEL",
+            "parent": "5",
+            "stage": "3",
+            "monitoringCode": "0506",
+            "enabled": true
+        },
+        {
+            "id": "33",
+            "description": "New Connection",
+            "fieldCode": "",
+            "OrgCode": "DOTEL",
+            "parent": "5",
+            "stage": "3",
+            "monitoringCode": "0506",
+            "enabled": true
+        },
+        {
+            "id": "34",
+            "description": "Delay in disconnection/closure",
+            "fieldCode": "",
+            "OrgCode": "DOTEL",
+            "parent": "5",
+            "stage": "3",
+            "monitoringCode": "0506",
+            "enabled": true
+        },
+        {
+            "id": "35",
+            "description": "Denial of rent rebate during fault",
+            "fieldCode": "",
+            "OrgCode": "DOTEL",
+            "parent": "5",
+            "stage": "3",
+            "monitoringCode": "0506",
+            "enabled": true
+        },
+        {
+            "id": "36",
+            "description": "Telephone Faulty/dead",
+            "fieldCode": "",
+            "OrgCode": "DOTEL",
+            "parent": "5",
+            "stage": "3",
+            "monitoringCode": "0506",
+            "enabled": true
+        },
+        {
+            "id": "37",
+            "description": "Security Refund",
+            "fieldCode": "",
+            "OrgCode": "DOTEL",
+            "parent": "5",
+            "stage": "3",
+            "monitoringCode": "0506",
+            "enabled": true
+        },
+        {
+            "id": "38",
+            "description": "Billing issue",
+            "fieldCode": "",
+            "OrgCode": "DOTEL",
+            "parent": "5",
+            "stage": "3",
+            "monitoringCode": "0506",
+            "enabled": true
+        },
+        {
+            "id": "39",
+            "description": "Telephone not working properly",
+            "fieldCode": "",
+            "OrgCode": "DOTEL",
+            "parent": "5",
+            "stage": "3",
+            "monitoringCode": "0506",
+            "enabled": true
+        },
+        {
+            "id": "40",
+            "description": "Others",
+            "fieldCode": "",
+            "OrgCode": "DOTEL",
+            "parent": "5",
+            "stage": "3",
+            "monitoringCode": "0506",
+            "enabled": true
+        },
+        {
+            "id": "41",
+            "description": "Compensatory ground appointment",
+            "fieldCode": "1",
+            "OrgCode": "DOTEL",
+            "parent": "6",
+            "stage": "3",
+            "monitoringCode": "0101",
+            "enabled": true
+        },
+        {
+            "id": "42",
+            "description": "Pending any type of Bill/dues for payment",
+            "fieldCode": "1",
+            "OrgCode": "DOTEL",
+            "parent": "6",
+            "stage": "3",
+            "monitoringCode": "0101",
+            "enabled": true
+        },
+        {
+            "id": "43",
+            "description": "Issues related to Promotion",
+            "fieldCode": "1",
+            "OrgCode": "DOTEL",
+            "parent": "6",
+            "stage": "3",
+            "monitoringCode": "0101",
+            "enabled": true
+        },
+        {
+            "id": "44",
+            "description": "Transfer/Posting",
+            "fieldCode": "1",
+            "OrgCode": "DOTEL",
+            "parent": "6",
+            "stage": "3",
+            "monitoringCode": "0101",
+            "enabled": true
+        },
+        {
+            "id": "45",
+            "description": "Pending Disciplinary/Vigilance matters",
+            "fieldCode": "1",
+            "OrgCode": "DOTEL",
+            "parent": "6",
+            "stage": "3",
+            "monitoringCode": "0101",
+            "enabled": true
+        },
+        {
+            "id": "46",
+            "description": "Sexual harassment",
+            "fieldCode": "1",
+            "OrgCode": "DOTEL",
+            "parent": "6",
+            "stage": "3",
+            "monitoringCode": "0101",
+            "enabled": true
+        },
+        {
+            "id": "47",
+            "description": "Misbehaviour/Harassment by any officer/staff",
+            "fieldCode": "1",
+            "OrgCode": "DOTEL",
+            "parent": "6",
+            "stage": "3",
+            "monitoringCode": "0101",
+            "enabled": true
+        },
+        {
+            "id": "48",
+            "description": "Residential Service Telephone Connection",
+            "fieldCode": "1",
+            "OrgCode": "DOTEL",
+            "parent": "6",
+            "stage": "3",
+            "monitoringCode": "0101",
+            "enabled": true
+        },
+        {
+            "id": "49",
+            "description": "Health Hazard / Radiation Issue",
+            "fieldCode": "1",
+            "OrgCode": "DOTEL",
+            "parent": "7",
+            "stage": "3",
+            "monitoringCode": "0506",
+            "enabled": true
+        },
+        {
+            "id": "50",
+            "description": "Tower installation related fraud / Cheating",
+            "fieldCode": "1",
+            "OrgCode": "DOTEL",
+            "parent": "7",
+            "stage": "3",
+            "monitoringCode": "0506",
+            "enabled": true
+        },
+        {
+            "id": "51",
+            "description": "Employee Related Case",
+            "fieldCode": "1",
+            "OrgCode": "DOTEL",
+            "parent": "8",
+            "stage": "3",
+            "monitoringCode": "0301",
+            "enabled": true
+        },
+        {
+            "id": "52",
+            "description": "Others",
+            "fieldCode": "8",
+            "OrgCode": "DOTEL",
+            "parent": "8",
+            "stage": "3",
+            "monitoringCode": "0301",
+            "enabled": true
+        },
+        {
+            "id": "53",
+            "description": "Mobile Related",
+            "fieldCode": "8",
+            "OrgCode": "DOTEL",
+            "parent": "9",
+            "stage": "3",
+            "monitoringCode": "2101",
+            "enabled": true
+        },
+        {
+            "id": "54",
+            "description": "Landline Related",
+            "fieldCode": "8",
+            "OrgCode": "DOTEL",
+            "parent": "9",
+            "stage": "3",
+            "monitoringCode": "2101",
+            "enabled": true
+        },
+        {
+            "id": "55",
+            "description": "Broadband / Internet related",
+            "fieldCode": "8",
+            "OrgCode": "DOTEL",
+            "parent": "9",
+            "stage": "3",
+            "monitoringCode": "2101",
+            "enabled": true
+        },
+        {
+            "id": "56",
+            "description": "TRAI Related",
+            "fieldCode": "8",
+            "OrgCode": "DOTEL",
+            "parent": "9",
+            "stage": "3",
+            "monitoringCode": "2101",
+            "enabled": true
+        },
+        {
+            "id": "57",
+            "description": "General suggestion related to DoT / Policy",
+            "fieldCode": "9",
+            "OrgCode": "DOTEL",
+            "parent": "9",
+            "stage": "3",
+            "monitoringCode": "2101",
+            "enabled": true
+        },
+        {
+            "id": "58",
+            "description": "Spectrum/License (2G, 3G, 4G)",
+            "fieldCode": "9",
+            "OrgCode": "DOTEL",
+            "parent": "9",
+            "stage": "3",
+            "monitoringCode": "2101",
+            "enabled": true
+        },
+        {
+            "id": "59",
+            "description": "Spectrum/License (5G)",
+            "fieldCode": "9",
+            "OrgCode": "DOTEL",
+            "parent": "9",
+            "stage": "3",
+            "monitoringCode": "2101",
+            "enabled": true
+        },
+        {
+            "id": "60",
+            "description": "Others",
+            "fieldCode": "9",
+            "OrgCode": "DOTEL",
+            "parent": "9",
+            "stage": "3",
+            "monitoringCode": "2101",
+            "enabled": true
+        }
+
    ]
 }
