@@ -530,7 +530,7 @@
   "RAINMAKER-PGR": {
     "ServiceDefs": {
       "masterName": "ServiceDefs",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": [
         "$.code"
       ]
