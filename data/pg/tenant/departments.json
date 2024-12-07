@@ -1,0 +1,431 @@
+{
+  "tenantId": "pg",
+  "moduleName": "departments",
+  "departments": [
+    {
+      "code": "pg.dhlth",
+      "name": "Department of Health and Family Welfare",
+      "description": "Health and Family Welfare"
+    },
+    {
+      "code": "pg.meapd",
+      "name": "Department of External Affairs",
+      "description": "External Affairs"
+    },
+    {
+      "code": "pg.mpang",
+      "name": "Department of Petroleum and Natural Gas",
+      "description": "Petroleum and Natural Gas"
+    },
+    {
+      "code": "pg.mocav",
+      "name": "Department of Civil Aviation",
+      "description": "Civil Aviation"
+    },
+    {
+      "code": "pg.dsehe",
+      "name": "Department of Higher Education",
+      "description": "Higher Education"
+    },
+    {
+      "code": "pg.molbr",
+      "name": "Department of Labour and Employment",
+      "description": "Labour and Employment"
+    },
+    {
+      "code": "pg.dourd",
+      "name": "Department of Housing and Urban Affairs",
+      "description": "Housing and Urban Affairs"
+    },
+    {
+      "code": "pg.morly",
+      "name": "Department of Railway",
+      "description": "Railway"
+    },
+    {
+      "code": "pg.dopat",
+      "name": "Department of Personnel and Training",
+      "description": "Personnel and Training"
+    },
+    {
+      "code": "pg.cbodt",
+      "name": "Department of Central Board of Direct Taxes (Income Tax)",
+      "description": "Central Board of Direct Taxes (Income Tax)"
+    },
+    {
+      "code": "pg.cboec",
+      "name": "Department of Central Board of Indirect Taxes and Customs",
+      "description": "Central Board of Indirect Taxes and Customs"
+    },
+    {
+      "code": "pg.dorvu",
+      "name": "Department of Department of Revenue",
+      "description": "Department of Revenue"
+    },
+    {
+      "code": "pg.minha",
+      "name": "Department of Home Affairs",
+      "description": "Home Affairs"
+    },
+    {
+      "code": "pg.dorld",
+      "name": "Department of Rural Development",
+      "description": "Rural Development"
+    },
+    {
+      "code": "pg.depoj",
+      "name": "Department of Department of Justice",
+      "description": "Department of Justice"
+    },
+    {
+      "code": "pg.dcoya",
+      "name": "Department of Ministry of Corporate Affairs",
+      "description": "Ministry of Corporate Affairs"
+    },
+    {
+      "code": "pg.docaf",
+      "name": "Department of Department of Consumer Affairs",
+      "description": "Department of Consumer Affairs"
+    },
+    {
+      "code": "pg.dowcd",
+      "name": "Department of M/o Women and Child Development",
+      "description": "M/o Women and Child Development"
+    },
+    {
+      "code": "pg.moiab",
+      "name": "Department of Ministry of Information and Broadcasting",
+      "description": "Ministry of Information and Broadcasting"
+    },
+    {
+      "code": "pg.ddesw",
+      "name": "Department of Department of Ex Servicemen Welfare",
+      "description": "Department of Ex Servicemen Welfare"
+    },
+    {
+      "code": "pg.fadss",
+      "name": "Department of Department of Defence Finance",
+      "description": "Department of Defence Finance"
+    },
+    {
+      "code": "pg.minpa",
+      "name": "Department of Ministry of Parliamentary Affairs",
+      "description": "Ministry of Parliamentary Affairs"
+    },
+    {
+      "code": "pg.datom",
+      "name": "Department of Department of Atomic Energy",
+      "description": "Department of Atomic Energy"
+    },
+    {
+      "code": "pg.mosje",
+      "name": "Department of Department of Social Justice and Empowerment",
+      "description": "Department of Social Justice and Empowerment"
+    },
+    {
+      "code": "pg.arnpg",
+      "name": "Department of Department of Administrative Reforms and Public Grievances - PG Division",
+      "description": "Department of Administrative Reforms and Public Grievances - PG Division"
+    },
+    {
+      "code": "pg.cagao",
+      "name": "Department of O/o the Comptroller & Auditor General of India",
+      "description": "O/o the Comptroller & Auditor General of India"
+    },
+    {
+      "code": "pg.deapr",
+      "name": "Department of Department of Financial Services (Pension Reforms)",
+      "description": "Department of Financial Services (Pension Reforms)"
+    },
+    {
+      "code": "pg.dmaff",
+      "name": "Department of Department of Military Affairs",
+      "description": "Department of Military Affairs"
+    },
+    {
+      "code": "pg.modef",
+      "name": "Department of Department of Defence",
+      "description": "Department of Defence"
+    },
+    {
+      "code": "pg.mostl",
+      "name": "Department of Ministry of Steel",
+      "description": "Ministry of Steel"
+    },
+    {
+      "code": "pg.dosat",
+      "name": "Department of Department of Science and Technology",
+      "description": "Department of Science and Technology"
+    },
+    {
+      "code": "pg.dhind",
+      "name": "Department of Department of Heavy Industry",
+      "description": "Department of Heavy Industry"
+    },
+    {
+      "code": "pg.mmine",
+      "name": "Department of Ministry of Mines",
+      "description": "Ministry of Mines"
+    },
+    {
+      "code": "pg.monre",
+      "name": "Department of Ministry of New and Renewable Energy",
+      "description": "Ministry of New and Renewable Energy"
+    },
+    {
+      "code": "pg.dbiot",
+      "name": "Department of Department of Bio Technology",
+      "description": "Department of Bio Technology"
+    },
+    {
+      "code": "pg.mcoal",
+      "name": "Department of Ministry  of Coal",
+      "description": "Ministry  of Coal"
+    },
+    {
+      "code": "pg.uidai",
+      "name": "Department of Unique Identification Authority of India",
+      "description": "Unique Identification Authority of India"
+    },
+    {
+      "code": "pg.moyas",
+      "name": "Department of Department of Youth Affairs",
+      "description": "Department of Youth Affairs"
+    },
+    {
+      "code": "pg.dsprt",
+      "name": "Department of Department of Sports",
+      "description": "Department of Sports"
+    },
+    {
+      "code": "pg.ddrdo",
+      "name": "Department of Department of Defence Research and Development",
+      "description": "Department of Defence Research and Development"
+    },
+    {
+      "code": "pg.mospi",
+      "name": "Department of Ministry of Statistics and Programme Implementation",
+      "description": "Ministry of Statistics and Programme Implementation"
+    },
+    {
+      "code": "pg.dspac",
+      "name": "Department of Department of Space",
+      "description": "Department of Space"
+    },
+    {
+      "code": "pg.dpham",
+      "name": "Department of Department of Pharmaceutical",
+      "description": "Department of Pharmaceutical"
+    },
+    {
+      "code": "pg.ddpro",
+      "name": "Department of Department of Defence Production",
+      "description": "Department of Defence Production"
+    },
+    {
+      "code": "pg.momaf",
+      "name": "Department of Ministry of Minority Affairs",
+      "description": "Ministry of Minority Affairs"
+    },
+    {
+      "code": "pg.doskd",
+      "name": "Department of Ministry of Skill Development and Entrepreneurship",
+      "description": "Ministry of Skill Development and Entrepreneurship"
+    },
+    {
+      "code": "pg.moprj",
+      "name": "Department of Ministry of Panchayati Raj",
+      "description": "Ministry of Panchayati Raj"
+    },
+    {
+      "code": "pg.doipp",
+      "name": "Department of Department for Promotion of Industry and Internal Trade",
+      "description": "Department for Promotion of Industry and Internal Trade"
+    },
+    {
+      "code": "pg.mtrbl",
+      "name": "Department of Ministry of Tribal Affairs",
+      "description": "Ministry of Tribal Affairs"
+    },
+    {
+      "code": "pg.doare",
+      "name": "Department of Department of Agriculture Research and Education",
+      "description": "Department of Agriculture Research and Education"
+    },
+    {
+      "code": "pg.dlgla",
+      "name": "Department of Department of Legal Affairs",
+      "description": "Department of Legal Affairs"
+    },
+    {
+      "code": "pg.docom",
+      "name": "Department of Department of Commerce",
+      "description": "Department of Commerce"
+    },
+    {
+      "code": "pg.lgved",
+      "name": "Department of Legislative Department",
+      "description": "Legislative Department"
+    },
+    {
+      "code": "pg.doner",
+      "name": "Department of Ministry of Development of North Eastern Region",
+      "description": "Ministry of Development of North Eastern Region"
+    },
+    {
+      "code": "pg.minwr",
+      "name": "Department of Ministry of Water Resources, River Development & Ganga Rejuv",
+      "description": "Ministry of Water Resources, River Development & Ganga Rejuv"
+    },
+    {
+      "code": "pg.dcltr",
+      "name": "Department of Ministry of Culture",
+      "description": "Ministry of Culture"
+    },
+    {
+      "code": "pg.mtxtl",
+      "name": "Department of Ministry of Textiles",
+      "description": "Ministry of Textiles"
+    },
+    {
+      "code": "pg.dodiv",
+      "name": "Department of Department of Investment & Public Asset Management",
+      "description": "Department of Investment & Public Asset Management"
+    },
+    {
+      "code": "pg.minit",
+      "name": "Department of Ministry of Electronics & Information Technology",
+      "description": "Ministry of Electronics & Information Technology"
+    },
+    {
+      "code": "pg.doahd",
+      "name": "Department of Department of Animal Husbandry, Dairying",
+      "description": "Department of Animal Husbandry, Dairying"
+    },
+    {
+      "code": "pg.mmsme",
+      "name": "Department of Ministry of Micro Small and Medium  Enterprises",
+      "description": "Ministry of Micro Small and Medium  Enterprises"
+    },
+    {
+      "code": "pg.dodaf",
+      "name": "Department of Department of Empowerment of Persons with Disabilities",
+      "description": "Department of Empowerment of Persons with Disabilities"
+    },
+    {
+      "code": "pg.mpowr",
+      "name": "Department of Ministry of Power",
+      "description": "Ministry of Power"
+    },
+    {
+      "code": "pg.docpc",
+      "name": "Department of Department of Chemicals and Petrochemicals",
+      "description": "Department of Chemicals and Petrochemicals"
+    },
+    {
+      "code": "pg.doldr",
+      "name": "Department of Department of Land Resources",
+      "description": "Department of Land Resources"
+    },
+    {
+      "code": "pg.dpube",
+      "name": "Department of Department of Public Enterprises",
+      "description": "Department of Public Enterprises"
+    },
+    {
+      "code": "pg.dofpi",
+      "name": "Department of Ministry of Food Processing Industries",
+      "description": "Ministry of Food Processing Industries"
+    },
+    {
+      "code": "pg.dhres",
+      "name": "Department of Department of Health Research",
+      "description": "Department of Health Research"
+    },
+    {
+      "code": "pg.doeaf",
+      "name": "Department of Department of Economic Affairs ACC Division",
+      "description": "Department of Economic Affairs ACC Division"
+    },
+    {
+      "code": "pg.doexp",
+      "name": "Department of Department of Expenditure",
+      "description": "Department of Expenditure"
+    },
+    {
+      "code": "pg.dfshr",
+      "name": "Department of Department of Fisheries",
+      "description": "Department of Fisheries"
+    },
+    {
+      "code": "pg.mocop",
+      "name": "Department of Ministry of Cooperation",
+      "description": "Ministry of Cooperation"
+    },
+    {
+      "code": "pg.dplng",
+      "name": "Department of NITI Aayog",
+      "description": "NITI Aayog"
+    },
+    {
+      "code": "pg.dtour",
+      "name": "Department of Ministry of Tourism",
+      "description": "Ministry of Tourism"
+    },
+    {
+      "code": "pg.moeaf",
+      "name": "Department of Ministry of Environment, Forest and Climate Change",
+      "description": "Ministry of Environment, Forest and Climate Change"
+    },
+    {
+      "code": "pg.doaac",
+      "name": "Department of Department of Agriculture and Farmers Welfare",
+      "description": "Department of Agriculture and Farmers Welfare"
+    },
+    {
+      "code": "pg.docnd",
+      "name": "Department of Ministry of Earth Sciences",
+      "description": "Ministry of Earth Sciences"
+    },
+    {
+      "code": "pg.jsold",
+      "name": "Department of Department of Official Language",
+      "description": "Department of Official Language"
+    },
+    {
+      "code": "pg.dosir",
+      "name": "Department of Department of Scientific & Industrial Research",
+      "description": "Department of Scientific & Industrial Research"
+    },
+    {
+      "code": "pg.dofzr",
+      "name": "Department of Department of Fertilizers",
+      "description": "Department of Fertilizers"
+    },
+    {
+      "code": "pg.ayush",
+      "name": "Department of Ayush",
+      "description": "Ayush"
+    },
+    {
+      "code": "pg.dodws",
+      "name": "Department of Ministry of Drinking Water and Sanitation",
+      "description": "Ministry of Drinking Water and Sanitation"
+    },
+    {
+      "code": "pg.dofpd",
+      "name": "Department of Food and Public Distribution",
+      "description": "Food and Public Distribution"
+    },
+    {
+      "code": "pg.darpg",
+      "name": "Department of Administrative Reforms and public grievances",
+      "description": "Administrative Reforms and public grievances"
+    },
+    {
+      "code": "pg.mshpg",
+      "name": "Department of Shipping",
+      "description": "Shipping"
+    }
+  ]
+}
