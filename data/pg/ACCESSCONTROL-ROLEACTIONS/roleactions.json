@@ -25904,13 +25904,13 @@
       "tenantId": "pg"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "SUPERUSER",
       "actionid": 2630,
       "actioncode": "",
       "tenantId": "pg"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "SUPERUSER",
       "actionid": 2631,
       "actioncode": "",
       "tenantId": "pg"
@@ -25928,13 +25928,13 @@
       "tenantId": "pg"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "SUPERUSER",
       "actionid": 2635,
       "actioncode": "",
       "tenantId": "pg"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "SUPERUSER",
       "actionid": 2636,
       "actioncode": "",
       "tenantId": "pg"
