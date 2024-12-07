@@ -701,6 +701,26 @@
       "code": "LOC_ADMIN",
       "name": "Localisation admin",
       "description": "LOC_ADMIN"
+    },
+    {
+      "code": "HOD_DEPT",
+      "name": "Head of the Departments",
+      "description": "Head of the Departments/Ministry"
+    },
+    {
+      "code": "NODAL_ADMIN",
+      "name": "Nodal User of Department/ministry",
+      "description": "Nodal User of Department/ministry"
+    },
+    {
+      "code": "NAA",
+      "name": "Nodal Appellant Authority",
+      "description": "Nodal Appellant Authority"
+    },
+    {
+      "code": "SUB_NAA",
+      "name": "Sub Nodal Appellant Authority",
+      "description": "Sub Nodal Appellant Authority"
     }
   ]
 }

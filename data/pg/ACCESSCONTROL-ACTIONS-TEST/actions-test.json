@@ -14786,6 +14786,30 @@
       "serviceCode": "",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2637,
+      "name": "search office",
+      "url": "/egov-mdms-service/v1/ofc/_search",
+      "displayName": "search office",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2638,
+      "name": "search organization",
+      "url": "/egov-mdms-service/v1/org/_search",
+      "displayName": "search organization",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
     }
     
    ]
