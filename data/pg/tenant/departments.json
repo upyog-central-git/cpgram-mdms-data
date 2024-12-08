@@ -1,6 +1,6 @@
 {
   "tenantId": "pg",
-  "moduleName": "departments",
+  "moduleName": "tenant",
   "departments": [
     {
       "code": "pg.dhlth",
