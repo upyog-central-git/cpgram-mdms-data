@@ -14810,6 +14810,42 @@
       "serviceCode": "",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2639,
+      "name": "Create Appeal",
+      "url": "/pgr-services/appeal/_create",
+      "displayName": "Create Appeal",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2640,
+      "name": "Update Appeal",
+      "url": "/pgr-services/appeal/_update",
+      "displayName": "Update Appeal",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2641,
+      "name": "Search Appeal",
+      "url": "/pgr-services/appeal/_search",
+      "displayName": "Search Appeal",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
     }
     
    ]
