@@ -14819,7 +14819,7 @@
       "orderNumber": 1,
       "parentModule": "",
       "enabled": false,
-      "serviceCode": "",
+      "serviceCode": "pgr-services",
       "code": "null",
       "path": ""
     },
@@ -14831,7 +14831,7 @@
       "orderNumber": 1,
       "parentModule": "",
       "enabled": false,
-      "serviceCode": "",
+      "serviceCode": "pgr-services",
       "code": "null",
       "path": ""
     },
@@ -14843,7 +14843,7 @@
       "orderNumber": 1,
       "parentModule": "",
       "enabled": false,
-      "serviceCode": "",
+      "serviceCode": "pgr-services",
       "code": "null",
       "path": ""
     }
