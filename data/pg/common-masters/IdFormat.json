@@ -713,6 +713,10 @@
         {
             "format": "SY-[cy:yyyy-MM-dd]-[SEQ_EG_DOC_ID]",
             "idname": "ss.surveyid"
+        },
+        {
+            "format": "EMP-[CITY.CODE]-[SEQ_EG_HRMS_EMP_CODE]",
+            "idname": "hrms.employeecode"
         }
     ]
 }
