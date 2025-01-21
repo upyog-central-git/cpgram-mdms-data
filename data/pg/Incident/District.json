@@ -11,7 +11,181 @@
       "code": "MYSURU",
       "name": "Mysuru",
       "active": true
+    },
+    
+  {
+      "code": "BALLARI",
+      "name": "Ballari",
+      "active": true
+  },
+  {
+      "code": "BANGALORERURAL",
+      "name": "Bangalore Rural",
+      "active": true
+  },
+  {
+      "code": "BANGALOREURBAN",
+      "name": "Bangalore Urban",
+      "active": true
+  },
+  
+  
+  {
+      "code": "CHAMARAJANAGARA",
+      "name": "Chamarajanagara",
+      "active": true
+  },
+  {
+      "code": "CHIKKABALLAPURA",
+      "name": "Chikkaballapura",
+      "active": true
+  },
+  {
+      "code": "CHIKKAMAGALURU",
+      "name": "Chikkamagaluru",
+      "active": true
+  },
+  
+  {
+      "code": "DAKSHINAKANNADA",
+      "name": "Dakshina Kannada",
+      "active": true
+  },
+  {
+      "code": "DAVANAGERE",
+      "name": "Davanagere",
+      "active": true
+  },
+  
+  
+  {
+      "code": "HASSAN",
+      "name": "Hassan",
+      "active": true
+  },
+  
+  {
+      "code": "KALABURGI",
+      "name": "Kalaburgi",
+      "active": true
+  },
+  {
+      "code": "KODAGU",
+      "name": "Kodagu",
+      "active": true
+  },
+  {
+      "code": "KOLAR",
+      "name": "Kolar",
+      "active": true
+  },
+  
+  {
+      "code": "MANDYA",
+      "name": "Mandya",
+      "active": true
+  },
+  {
+      "code": "MYSURU",
+      "name": "Mysuru",
+      "active": true
+  },
+  {
+      "code": "RAMANAGARA",
+      "name": "Ramanagara",
+      "active": true
+  },
+  
+  {
+      "code": "TUMKUR",
+      "name": "Tumkur",
+      "active": true
+  },
+  {
+      "code": "UDUPI",
+      "name": "Udupi",
+      "active": true
+  },
+  
+  {
+      "code": "VIJAYNAGARA",
+      "name": "Vijaynagara",
+      "active": true
+  },
+  
+  
+    {
+        "code": "BAGALKOTE",
+        "name": "Bagalkote",
+        "active": true
+    },
+    
+    {
+        "code": "BELAGAVI",
+        "name": "Belagavi",
+        "active": true
+    },
+    {
+        "code": "BIDAR",
+        "name": "Bidar",
+        "active": true
+    },
+    {
+        "code": "CHITRADURGA",
+        "name": "Chitradurga",
+        "active": true
+    },
+    {
+        "code": "DHARWAD",
+        "name": "Dharwad",
+        "active": true
+    },
+    {
+        "code": "GADAG",
+        "name": "Gadag",
+        "active": true
+    },
+    {
+        "code": "HAVERI",
+        "name": "Haveri",
+        "active": true
+    },
+    {
+        "code": "KALABURAGI",
+        "name": "Kalaburagi",
+        "active": true
+    },
+    {
+        "code": "KOPPAL",
+        "name": "Koppal",
+        "active": true
+    },
+    {
+        "code": "SHIVAMOGGA",
+        "name": "Shivamogga",
+        "active": true
+    },
+    {
+        "code": "UTTARAKANNADA",
+        "name": "Uttara Kannada",
+        "active": true
+    },
+    {
+        "code": "VIJAYANAGAR",
+        "name": "Vijayanagar",
+        "active": true
+    },
+    {
+        "code": "VIJAYAPURA",
+        "name": "Vijayapura",
+        "active": true
+    },
+    {
+        "code": "YADGIR",
+        "name": "Yadgir",
+        "active": true
     }
+
   ]
   
 }

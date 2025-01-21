@@ -17,9 +17,19 @@
           "path": "Data.incident.applicationStatus.keyword",
           "isMandatory": false
         },
+         {
+          "name": "incidentType",
+          "path": "Data.incident.incidentType.keyword",
+          "isMandatory": false
+        },
+           {
+          "name": "phcType",
+          "path": "Data.incident.phcType.keyword",
+          "isMandatory": false
+        },
         {
           "name": "assignee",
-          "path": "Data.currentProcessInstance.assignes.keyword",
+          "path": "Data.currentProcessInstance.assignes.uuid.keyword",
           "isMandatory": false
         },
         {
@@ -44,7 +54,7 @@
           "path": "Data.incident.auditDetails.createdTime",
           "defaultOrder": "ASC"
       },
-      "sourceFilterPathList": ["Data.incident.auditDetails", "Data.tenantId","Data.auditDetails","Data.incident.applicationStatus","Data.incident.additionalDetails", "Data.incident.tenantId","Data.incident.incidentId","Data.currentProcessInstance"]
+      "sourceFilterPathList": ["Data.incident", "Data.tenantId","Data.auditDetails","Data.currentProcessInstance"]
     }
   ]
 }
