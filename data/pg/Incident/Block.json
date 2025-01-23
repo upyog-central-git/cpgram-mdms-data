@@ -33,11 +33,1236 @@
       "districtCode": "RAICHUR",
       "active": true
     },
-        {
+    {
       "code": "mysuru.hdkote",
       "name": "HDKote",
       "districtCode": "MYSURU",
       "active": true
-    }
+    },
+    
+      
+      
+      
+      {
+          "code": "bagalkote.jamakhandi",
+          "name": "Jamakhandi",
+          "districtCode": "BAGALKOTE",
+          "active": true
+      },
+      {
+          "code": "bagalkote.mudhole",
+          "name": "Mudhole",
+          "districtCode": "BAGALKOTE",
+          "active": true
+      },
+      {
+          "code": "ballari.sandur",
+          "name": "Sandur",
+          "districtCode": "BALLARI",
+          "active": true
+      },
+      {
+          "code": "ballari.siruguppa",
+          "name": "Siruguppa",
+          "districtCode": "BALLARI",
+          "active": true
+      },
+      {
+          "code": "bangalorerural.devanahalli",
+          "name": "Devanahalli",
+          "districtCode": "BANGALORERURAL",
+          "active": true
+      },
+      {
+          "code": "bangalorerural.hosakote",
+          "name": "Hosakote",
+          "districtCode": "BANGALORERURAL",
+          "active": true
+      },
+      {
+          "code": "bangalorerural.nelamanagala",
+          "name": "Nelamanagala",
+          "districtCode": "BANGALORERURAL",
+          "active": true
+      },
+      {
+          "code": "bangaloreurban.anekal",
+          "name": "Anekal",
+          "districtCode": "BANGALOREURBAN",
+          "active": true
+      },
+      {
+          "code": "bangaloreurban.bangalorenorth",
+          "name": "Bangalore North",
+          "districtCode": "BANGALOREURBAN",
+          "active": true
+      },
+      
+      {
+          "code": "belagavi.bailahongala",
+          "name": "Bailahongala",
+          "districtCode": "BELAGAVI",
+          "active": true
+      },
+      {
+          "code": "belagavi.chikkodi",
+          "name": "Chikkodi",
+          "districtCode": "BELAGAVI",
+          "active": true
+      },
+      {
+          "code": "belagavi.gokak",
+          "name": "Gokak",
+          "districtCode": "BELAGAVI",
+          "active": true
+      },
+      
+      {
+          "code": "belagavi.kanapur",
+          "name": "Kanapur",
+          "districtCode": "BELAGAVI",
+          "active": true
+      },
+      
+      
+      {
+          "code": "belagavi.soundatti",
+          "name": "Soundatti",
+          "districtCode": "BELAGAVI",
+          "active": true
+      },
+      {
+          "code": "bidar.aurad",
+          "name": "Aurad",
+          "districtCode": "BIDAR",
+          "active": true
+      },
+      {
+          "code": "bidar.bhalki",
+          "name": "Bhalki",
+          "districtCode": "BIDAR",
+          "active": true
+      },
+      {
+          "code": "chamarajanagara.kollegala",
+          "name": "Kollegala",
+          "districtCode": "CHAMARAJANAGARA",
+          "active": true
+      },
+      {
+          "code": "chamarajanagara.yelandur",
+          "name": "Yelandur",
+          "districtCode": "CHAMARAJANAGARA",
+          "active": true
+      },
+      {
+          "code": "chikkaballapura.bagepalli",
+          "name": "Bagepalli",
+          "districtCode": "CHIKKABALLAPURA",
+          "active": true
+      },
+      {
+          "code": "chikkaballapura.chintamani",
+          "name": "Chintamani",
+          "districtCode": "CHIKKABALLAPURA",
+          "active": true
+      },
+      {
+          "code": "chikkaballapura.gowribidanur",
+          "name": "Gowribidanur",
+          "districtCode": "CHIKKABALLAPURA",
+          "active": true
+      },
+      {
+          "code": "chikkamagaluru.kadur",
+          "name": "Kadur",
+          "districtCode": "CHIKKAMAGALURU",
+          "active": true
+      },
+      {
+          "code": "chikkamagaluru.koppa",
+          "name": "Koppa",
+          "districtCode": "CHIKKAMAGALURU",
+          "active": true
+      },
+      {
+          "code": "chikkamagaluru.mudigere",
+          "name": "Mudigere",
+          "districtCode": "CHIKKAMAGALURU",
+          "active": true
+      },
+      {
+          "code": "chikkamagaluru.narasimharajapura",
+          "name": "Narasimharajapura",
+          "districtCode": "CHIKKAMAGALURU",
+          "active": true
+      },
+      {
+          "code": "chikkamagaluru.shringeri",
+          "name": "Shringeri",
+          "districtCode": "CHIKKAMAGALURU",
+          "active": true
+      },
+      {
+          "code": "chikkamagaluru.tharikere",
+          "name": "Tharikere",
+          "districtCode": "CHIKKAMAGALURU",
+          "active": true
+      },
+      {
+          "code": "chitradurga.challakere",
+          "name": "Challakere",
+          "districtCode": "CHITRADURGA",
+          "active": true
+      },
+      
+      {
+          "code": "chitradurga.hollelkere",
+          "name": "Hollelkere",
+          "districtCode": "CHITRADURGA",
+          "active": true
+      },
+      
+      {
+          "code": "chitradurga.molakalumur",
+          "name": "Molakalumur",
+          "districtCode": "CHITRADURGA",
+          "active": true
+      },
+      {
+          "code": "dakshinakannada.sullia",
+          "name": "Sullia",
+          "districtCode": "DAKSHINAKANNADA",
+          "active": true
+      },
+      {
+          "code": "davanagere.chennagiri",
+          "name": "Chennagiri",
+          "districtCode": "DAVANAGERE",
+          "active": true
+      },
+      {
+          "code": "davanagere.harihara",
+          "name": "Harihara",
+          "districtCode": "DAVANAGERE",
+          "active": true
+      },
+      {
+          "code": "davanagere.honnali",
+          "name": "Honnali",
+          "districtCode": "DAVANAGERE",
+          "active": true
+      },
+      {
+          "code": "davanagere.jagalur",
+          "name": "Jagalur",
+          "districtCode": "DAVANAGERE",
+          "active": true
+      },
+      {
+          "code": "dharwad.kalaghatgi",
+          "name": "Kalaghatgi",
+          "districtCode": "DHARWAD",
+          "active": true
+      },
+      
+      
+      {
+          "code": "hassan.alur",
+          "name": "Alur",
+          "districtCode": "HASSAN",
+          "active": true
+      },
+      {
+          "code": "hassan.arasikere",
+          "name": "Arasikere",
+          "districtCode": "HASSAN",
+          "active": true
+      },
+      {
+          "code": "hassan.belur",
+          "name": "Belur",
+          "districtCode": "HASSAN",
+          "active": true
+      },
+      {
+          "code": "hassan.channarayapatna",
+          "name": "Channarayapatna",
+          "districtCode": "HASSAN",
+          "active": true
+      },
+      {
+          "code": "hassan.holenarasipura",
+          "name": "Holenarasipura",
+          "districtCode": "HASSAN",
+          "active": true
+      },
+      {
+          "code": "hassan.sakaleshpura",
+          "name": "Sakaleshpura",
+          "districtCode": "HASSAN",
+          "active": true
+      },
+      {
+          "code": "haveri.bydagi",
+          "name": "Bydagi",
+          "districtCode": "HAVERI",
+          "active": true
+      },
+      {
+          "code": "haveri.hanagal",
+          "name": "Hanagal",
+          "districtCode": "HAVERI",
+          "active": true
+      },
+      {
+          "code": "haveri.hirekerur",
+          "name": "Hirekerur",
+          "districtCode": "HAVERI",
+          "active": true
+      },
+      {
+          "code": "haveri.savanoor",
+          "name": "Savanoor",
+          "districtCode": "HAVERI",
+          "active": true
+      },
+      {
+          "code": "haveri.shiggaon",
+          "name": "Shiggaon",
+          "districtCode": "HAVERI",
+          "active": true
+      },
+      {
+          "code": "kalaburgi.aland",
+          "name": "Aland",
+          "districtCode": "KALABURGI",
+          "active": true
+      },
+      {
+          "code": "kalaburgi.chittapur",
+          "name": "Chittapur",
+          "districtCode": "KALABURGI",
+          "active": true
+      },
+      {
+          "code": "kalaburgi.jewargi",
+          "name": "Jewargi",
+          "districtCode": "KALABURGI",
+          "active": true
+      },
+      {
+          "code": "kodagu.somwarpet",
+          "name": "Somwarpet",
+          "districtCode": "KODAGU",
+          "active": true
+      },
+      {
+          "code": "kodagu.virajpet",
+          "name": "Virajpet",
+          "districtCode": "KODAGU",
+          "active": true
+      },
+      {
+          "code": "kolar.bangarpet",
+          "name": "Bangarpet",
+          "districtCode": "KOLAR",
+          "active": true
+      },
+      {
+          "code": "kolar.malur",
+          "name": "Malur",
+          "districtCode": "KOLAR",
+          "active": true
+      },
+      {
+          "code": "kolar.mulbagal",
+          "name": "Mulbagal",
+          "districtCode": "KOLAR",
+          "active": true
+      },
+      {
+          "code": "kolar.srinivasapura",
+          "name": "Srinivasapura",
+          "districtCode": "KOLAR",
+          "active": true
+      },
+      {
+          "code": "koppal.gangavati",
+          "name": "Gangavati",
+          "districtCode": "KOPPAL",
+          "active": true
+      },
+      {
+          "code": "koppal.kushtagi",
+          "name": "Kushtagi",
+          "districtCode": "KOPPAL",
+          "active": true
+      },
+      {
+          "code": "koppal.yelburga",
+          "name": "Yelburga",
+          "districtCode": "KOPPAL",
+          "active": true
+      },
+      {
+          "code": "mandya.krishnarajpet",
+          "name": "Krishnarajpet",
+          "districtCode": "MANDYA",
+          "active": true
+      },
+      {
+          "code": "mandya.maddur",
+          "name": "Maddur",
+          "districtCode": "MANDYA",
+          "active": true
+      },
+      {
+          "code": "mandya.malavalli",
+          "name": "Malavalli",
+          "districtCode": "MANDYA",
+          "active": true
+      },
+      {
+          "code": "mandya.nagamangala",
+          "name": "Nagamangala",
+          "districtCode": "MANDYA",
+          "active": true
+      },
+      {
+          "code": "mandya.pandavapura",
+          "name": "Pandavapura",
+          "districtCode": "MANDYA",
+          "active": true
+      },
+      {
+          "code": "mandya.sriranagapatna",
+          "name": "Sriranagapatna",
+          "districtCode": "MANDYA",
+          "active": true
+      },
+      {
+          "code": "mysuru.heggadadevankote",
+          "name": "Heggadadevankote",
+          "districtCode": "MYSURU",
+          "active": true
+      },
+      {
+          "code": "mysuru.hunsur",
+          "name": "Hunsur",
+          "districtCode": "MYSURU",
+          "active": true
+      },
+      {
+          "code": "mysuru.krishnarajanagara",
+          "name": "Krishnarajanagara",
+          "districtCode": "MYSURU",
+          "active": true
+      },
+      {
+          "code": "mysuru.nanjangudu",
+          "name": "Nanjangudu",
+          "districtCode": "MYSURU",
+          "active": true
+      },
+      {
+          "code": "mysuru.periyapatna",
+          "name": "Periyapatna",
+          "districtCode": "MYSURU",
+          "active": true
+      },
+      {
+          "code": "mysuru.tirumakudalnarsipur",
+          "name": "Tirumakudal Narsipur",
+          "districtCode": "MYSURU",
+          "active": true
+      },
+      {
+          "code": "ramanagara.chennapattna",
+          "name": "Chennapattna",
+          "districtCode": "RAMANAGARA",
+          "active": true
+      },
+      {
+          "code": "ramanagara.kanakapur",
+          "name": "Kanakapur",
+          "districtCode": "RAMANAGARA",
+          "active": true
+      },
+      {
+          "code": "ramanagara.magadi",
+          "name": "Magadi",
+          "districtCode": "RAMANAGARA",
+          "active": true
+      },
+      {
+          "code": "shivamogga.bhadravathi",
+          "name": "Bhadravathi",
+          "districtCode": "SHIVAMOGGA",
+          "active": true
+      },
+      {
+          "code": "shivamogga.hosanagar",
+          "name": "Hosanagar",
+          "districtCode": "SHIVAMOGGA",
+          "active": true
+      },
+      {
+          "code": "shivamogga.shikaripura",
+          "name": "Shikaripura",
+          "districtCode": "SHIVAMOGGA",
+          "active": true
+      },
+      {
+          "code": "shivamogga.thirthahalli",
+          "name": "Thirthahalli",
+          "districtCode": "SHIVAMOGGA",
+          "active": true
+      },
+      {
+          "code": "tumkur.chikkanayakanhalli",
+          "name": "Chikkanayakanhalli",
+          "districtCode": "TUMKUR",
+          "active": true
+      },
+      {
+          "code": "tumkur.gubbi",
+          "name": "Gubbi",
+          "districtCode": "TUMKUR",
+          "active": true
+      },
+      {
+          "code": "tumkur.koratagere",
+          "name": "Koratagere",
+          "districtCode": "TUMKUR",
+          "active": true
+      },
+      {
+          "code": "tumkur.madugiri",
+          "name": "Madugiri",
+          "districtCode": "TUMKUR",
+          "active": true
+      },
+      {
+          "code": "tumkur.pavagada",
+          "name": "Pavagada",
+          "districtCode": "TUMKUR",
+          "active": true
+      },
+      {
+          "code": "tumkur.sira",
+          "name": "Sira",
+          "districtCode": "TUMKUR",
+          "active": true
+      },
+      {
+          "code": "tumkur.tipatur",
+          "name": "Tipatur",
+          "districtCode": "TUMKUR",
+          "active": true
+      },
+      {
+          "code": "tumkur.turuvekere",
+          "name": "Turuvekere",
+          "districtCode": "TUMKUR",
+          "active": true
+      },
+      {
+          "code": "udupi.karkal",
+          "name": "Karkal",
+          "districtCode": "UDUPI",
+          "active": true
+      },
+      {
+          "code": "udupi.kundapura",
+          "name": "Kundapura",
+          "districtCode": "UDUPI",
+          "active": true
+      },
+      {
+          "code": "uttarakannada.bhatkal",
+          "name": "Bhatkal",
+          "districtCode": "UTTARAKANNADA",
+          "active": true
+      },
+      {
+          "code": "uttarakannada.haliyal",
+          "name": "Haliyal",
+          "districtCode": "UTTARAKANNADA",
+          "active": true
+      },
+      {
+          "code": "uttarakannada.honnavara",
+          "name": "Honnavara",
+          "districtCode": "UTTARAKANNADA",
+          "active": true
+      },
+      {
+          "code": "uttarakannada.kumta",
+          "name": "Kumta",
+          "districtCode": "UTTARAKANNADA",
+          "active": true
+      },
+      {
+          "code": "uttarakannada.siddapura",
+          "name": "Siddapura",
+          "districtCode": "UTTARAKANNADA",
+          "active": true
+      },
+      {
+          "code": "uttarakannada.sirsi",
+          "name": "Sirsi",
+          "districtCode": "UTTARAKANNADA",
+          "active": true
+      },
+      {
+          "code": "uttarakannada.joida",
+          "name": "Joida",
+          "districtCode": "UTTARAKANNADA",
+          "active": true
+      },
+      {
+          "code": "vijaynagara.hadagali",
+          "name": "Hadagali",
+          "districtCode": "VIJAYNAGARA",
+          "active": true
+      },
+      {
+          "code": "vijaynagara.hagaribommanahalli",
+          "name": "Hagaribommanahalli",
+          "districtCode": "VIJAYNAGARA",
+          "active": true
+      },
+      {
+          "code": "vijaynagara.hospet",
+          "name": "Hospet",
+          "districtCode": "VIJAYNAGARA",
+          "active": true
+      },
+      {
+          "code": "vijaynagara.kudligi",
+          "name": "Kudligi",
+          "districtCode": "VIJAYNAGARA",
+          "active": true
+      },
+      {
+          "code": "vijaynagara.harrapanahalli",
+          "name": "Harrapanahalli",
+          "districtCode": "VIJAYNAGARA",
+          "active": true
+      },
+      {
+          "code": "yadgir.shahapur",
+          "name": "Shahapur",
+          "districtCode": "YADGIR",
+          "active": true
+      },
+      {
+          "code": "yadgir.surapur",
+          "name": "Surapur",
+          "districtCode": "YADGIR",
+          "active": true
+      },
+      
+        {
+            "code": "bagalkote.bagalkot",
+            "name": "Bagalkot",
+            "districtCode": "BAGALKOTE",
+            "active": true
+        },
+        {
+            "code": "bagalkote.hunagund ",
+            "name": "Hunagund ",
+            "districtCode": "BAGALKOTE",
+            "active": true
+        },
+        {
+            "code": "bagalkote.ilkal",
+            "name": "Ilkal",
+            "districtCode": "BAGALKOTE",
+            "active": true
+        },
+        {
+            "code": "bagalkote.badami",
+            "name": "Badami",
+            "districtCode": "BAGALKOTE",
+            "active": true
+        },
+        {
+            "code": "bagalkote.mudhol",
+            "name": "Mudhol",
+            "districtCode": "BAGALKOTE",
+            "active": true
+        },
+        {
+            "code": "bagalkote.bilagi",
+            "name": "Bilagi",
+            "districtCode": "BAGALKOTE",
+            "active": true
+        },
+        {
+            "code": "bagalkote.rabakavibanahatti",
+            "name": "Rabakavi Banahatti",
+            "districtCode": "BAGALKOTE",
+            "active": true
+        },
+        {
+            "code": "bagalkote.jamkhandi",
+            "name": "Jamkhandi",
+            "districtCode": "BAGALKOTE",
+            "active": true
+        },
+        {
+            "code": "ballari.siraguppa",
+            "name": "Siraguppa",
+            "districtCode": "BALLARI",
+            "active": true
+        },
+        {
+            "code": "ballari.bellary",
+            "name": "Bellary",
+            "districtCode": "BALLARI",
+            "active": true
+        },
+        {
+            "code": "ballari.kampli",
+            "name": "Kampli",
+            "districtCode": "BALLARI",
+            "active": true
+        },
+        
+        {
+            "code": "belagavi.savadatti",
+            "name": "Savadatti",
+            "districtCode": "BELAGAVI",
+            "active": true
+        },
+        {
+            "code": "belagavi.bailhongal",
+            "name": "Bailhongal",
+            "districtCode": "BELAGAVI",
+            "active": true
+        },
+        {
+            "code": "belagavi.ramadurga",
+            "name": "Ramadurga",
+            "districtCode": "BELAGAVI",
+            "active": true
+        },
+        {
+            "code": "belagavi.belagavi",
+            "name": "Belagavi",
+            "districtCode": "BELAGAVI",
+            "active": true
+        },
+        {
+            "code": "belagavi.hukkeri",
+            "name": "Hukkeri",
+            "districtCode": "BELAGAVI",
+            "active": true
+        },
+        {
+            "code": "belagavi.athani",
+            "name": "Athani",
+            "districtCode": "BELAGAVI",
+            "active": true
+        },
+        {
+            "code": "belagavi.satti",
+            "name": "Satti",
+            "districtCode": "BELAGAVI",
+            "active": true
+        },
+        
+        {
+            "code": "belagavi.khanapur",
+            "name": "Khanapur",
+            "districtCode": "BELAGAVI",
+            "active": true
+        },
+        {
+            "code": "belagavi.mudalagi",
+            "name": "Mudalagi",
+            "districtCode": "BELAGAVI",
+            "active": true
+        },
+        {
+            "code": "belagavi.chikodi",
+            "name": "Chikodi",
+            "districtCode": "BELAGAVI",
+            "active": true
+        },
+        {
+            "code": "belagavi.nippani",
+            "name": "Nippani",
+            "districtCode": "BELAGAVI",
+            "active": true
+        },
+        {
+            "code": "belagavi.raibag",
+            "name": "Raibag",
+            "districtCode": "BELAGAVI",
+            "active": true
+        },
+        {
+            "code": "bidar.chittaguppa",
+            "name": "Chittaguppa",
+            "districtCode": "BIDAR",
+            "active": true
+        },
+        {
+            "code": "bidar.humnabad",
+            "name": "Humnabad",
+            "districtCode": "BIDAR",
+            "active": true
+        },
+        {
+            "code": "bidar.basavakalyan",
+            "name": "Basavakalyan",
+            "districtCode": "BIDAR",
+            "active": true
+        },
+        {
+            "code": "bidar.balkhi",
+            "name": "Balkhi",
+            "districtCode": "BIDAR",
+            "active": true
+        },
+        {
+            "code": "bidar.kalkhi",
+            "name": "Kalkhi",
+            "districtCode": "BIDAR",
+            "active": true
+        },
+        {
+            "code": "bidar.bidar",
+            "name": "Bidar",
+            "districtCode": "BIDAR",
+            "active": true
+        },
+        
+        {
+            "code": "bidar.kamal nagara",
+            "name": "Kamal nagara",
+            "districtCode": "BIDAR",
+            "active": true
+        },
+        {
+            "code": "bidar.hulsur",
+            "name": "Hulsur",
+            "districtCode": "BIDAR",
+            "active": true
+        },
+        {
+            "code": "chitradurga.chitradurga",
+            "name": "Chitradurga",
+            "districtCode": "CHITRADURGA",
+            "active": true
+        },
+        {
+            "code": "chitradurga.hiriyur",
+            "name": "Hiriyur",
+            "districtCode": "CHITRADURGA",
+            "active": true
+        },
+        {
+            "code": "chitradurga.hosadurga",
+            "name": "Hosadurga",
+            "districtCode": "CHITRADURGA",
+            "active": true
+        },
+        
+        {
+            "code": "chitradurga.holalkere",
+            "name": "Holalkere",
+            "districtCode": "CHITRADURGA",
+            "active": true
+        },
+        {
+            "code": "chitradurga.molakalmuru",
+            "name": "Molakalmuru",
+            "districtCode": "CHITRADURGA",
+            "active": true
+        },
+        {
+            "code": "dharwad.kalaghatagi",
+            "name": "Kalaghatagi",
+            "districtCode": "DHARWAD",
+            "active": true
+        },
+        {
+            "code": "dharwad.hubli",
+            "name": "Hubli",
+            "districtCode": "DHARWAD",
+            "active": true
+        },
+        {
+            "code": "dharwad.alnavar",
+            "name": "Alnavar",
+            "districtCode": "DHARWAD",
+            "active": true
+        },
+        {
+            "code": "dharwad.dharwad",
+            "name": "Dharwad",
+            "districtCode": "DHARWAD",
+            "active": true
+        },
+        {
+            "code": "dharwad.kundagol",
+            "name": "Kundagol",
+            "districtCode": "DHARWAD",
+            "active": true
+        },
+        {
+            "code": "dharwad.navalgund",
+            "name": "Navalgund",
+            "districtCode": "DHARWAD",
+            "active": true
+        },
+        {
+            "code": "gadag.ron",
+            "name": "Ron",
+            "districtCode": "GADAG",
+            "active": true
+        },
+        {
+            "code": "gadag.gadag",
+            "name": "Gadag",
+            "districtCode": "GADAG",
+            "active": true
+        },
+        {
+            "code": "gadag.shirahattti",
+            "name": "Shirahattti",
+            "districtCode": "GADAG",
+            "active": true
+        },
+        {
+            "code": "gadag.laxmeshwar",
+            "name": "Laxmeshwar",
+            "districtCode": "GADAG",
+            "active": true
+        },
+        {
+            "code": "gadag.naragund",
+            "name": "Naragund",
+            "districtCode": "GADAG",
+            "active": true
+        },
+        {
+            "code": "gadag.gajendragad",
+            "name": "Gajendragad",
+            "districtCode": "GADAG",
+            "active": true
+        },
+        {
+            "code": "gadag.mundaragi",
+            "name": "Mundaragi",
+            "districtCode": "GADAG",
+            "active": true
+        },
+        {
+            "code": "haveri.haveri",
+            "name": "Haveri",
+            "districtCode": "HAVERI",
+            "active": true
+        },
+        
+        
+        {
+            "code": "haveri.savanur",
+            "name": "Savanur",
+            "districtCode": "HAVERI",
+            "active": true
+        },
+        {
+            "code": "haveri.byadagi",
+            "name": "Byadagi",
+            "districtCode": "HAVERI",
+            "active": true
+        },
+        {
+            "code": "haveri.ranebennur",
+            "name": "Ranebennur",
+            "districtCode": "HAVERI",
+            "active": true
+        },
+        {
+            "code": "haveri.hirekeroor",
+            "name": "Hirekeroor",
+            "districtCode": "HAVERI",
+            "active": true
+        },
+        {
+            "code": "haveri.rattihalli",
+            "name": "Rattihalli",
+            "districtCode": "HAVERI",
+            "active": true
+        },
+        {
+            "code": "kalaburagi.kalaburagi",
+            "name": "Kalaburagi",
+            "districtCode": "KALABURAGI",
+            "active": true
+        },
+        {
+            "code": "kalaburagi.kamalapura",
+            "name": "Kamalapura",
+            "districtCode": "KALABURAGI",
+            "active": true
+        },
+        {
+            "code": "kalaburagi.aland ",
+            "name": "Aland ",
+            "districtCode": "KALABURAGI",
+            "active": true
+        },
+        {
+            "code": "kalaburagi.sedam",
+            "name": "Sedam",
+            "districtCode": "KALABURAGI",
+            "active": true
+        },
+        {
+            "code": "kalaburagi.chincholi",
+            "name": "Chincholi",
+            "districtCode": "KALABURAGI",
+            "active": true
+        },
+        {
+            "code": "kalaburagi.jevargi",
+            "name": "Jevargi",
+            "districtCode": "KALABURAGI",
+            "active": true
+        },
+        {
+            "code": "kalaburagi.chittapur",
+            "name": "Chittapur",
+            "districtCode": "KALABURAGI",
+            "active": true
+        },
+        {
+            "code": "kalaburagi.afzalpur",
+            "name": "Afzalpur",
+            "districtCode": "KALABURAGI",
+            "active": true
+        },
+        
+        {
+            "code": "koppal.kukanur",
+            "name": "Kukanur",
+            "districtCode": "KOPPAL",
+            "active": true
+        },
+        {
+            "code": "koppal.koppal",
+            "name": "Koppal",
+            "districtCode": "KOPPAL",
+            "active": true
+        },
+        {
+            "code": "koppal.yalaburga",
+            "name": "Yalaburga",
+            "districtCode": "KOPPAL",
+            "active": true
+        },
+        {
+            "code": "koppal.karatagi",
+            "name": "Karatagi",
+            "districtCode": "KOPPAL",
+            "active": true
+        },
+        {
+            "code": "koppal.kanakagiri",
+            "name": "Kanakagiri",
+            "districtCode": "KOPPAL",
+            "active": true
+        },
+        
+        {
+            "code": "koppal.gangavathi",
+            "name": "Gangavathi",
+            "districtCode": "KOPPAL",
+            "active": true
+        },
+        {
+            "code": "shivamogga.tirtahalli",
+            "name": "Tirtahalli",
+            "districtCode": "SHIVAMOGGA",
+            "active": true
+        },
+        {
+            "code": "uttarakannada.karwar",
+            "name": "Karwar",
+            "districtCode": "UTTARAKANNADA",
+            "active": true
+        },
+        {
+            "code": "uttarakannada.honnavar",
+            "name": "Honnavar",
+            "districtCode": "UTTARAKANNADA",
+            "active": true
+        },
+        
+        {
+            "code": "uttarakannada.ankola",
+            "name": "Ankola",
+            "districtCode": "UTTARAKANNADA",
+            "active": true
+        },
+        
+        {
+            "code": "uttarakannada.yallapur",
+            "name": "Yallapur",
+            "districtCode": "UTTARAKANNADA",
+            "active": true
+        },
+        {
+            "code": "uttarakannada.dandeli",
+            "name": "Dandeli",
+            "districtCode": "UTTARAKANNADA",
+            "active": true
+        },
+        {
+            "code": "uttarakannada.mundagod",
+            "name": "Mundagod",
+            "districtCode": "UTTARAKANNADA",
+            "active": true
+        },
+        
+        {
+            "code": "uttarakannada.halyal",
+            "name": "Halyal",
+            "districtCode": "UTTARAKANNADA",
+            "active": true
+        },
+        {
+            "code": "uttarakannada.siddapur",
+            "name": "Siddapur",
+            "districtCode": "UTTARAKANNADA",
+            "active": true
+        },
+        {
+            "code": "vijayanagar.huvinahadagali",
+            "name": "Huvinahadagali",
+            "districtCode": "VIJAYANAGAR",
+            "active": true
+        },
+        {
+            "code": "vijayanagar.harappanahalli",
+            "name": "Harappanahalli",
+            "districtCode": "VIJAYANAGAR",
+            "active": true
+        },
+        {
+            "code": "vijayanagar.hospet",
+            "name": "Hospet",
+            "districtCode": "VIJAYANAGAR",
+            "active": true
+        },
+        {
+            "code": "vijayanagar.hagribommanahalli",
+            "name": "Hagribommanahalli",
+            "districtCode": "VIJAYANAGAR",
+            "active": true
+        },
+        {
+            "code": "vijayanagar.kottur",
+            "name": "Kottur",
+            "districtCode": "VIJAYANAGAR",
+            "active": true
+        },
+        {
+            "code": "vijayanagar.kudligi",
+            "name": "Kudligi",
+            "districtCode": "VIJAYANAGAR",
+            "active": true
+        },
+        {
+            "code": "vijayapura.vijayapura",
+            "name": "Vijayapura",
+            "districtCode": "VIJAYAPURA",
+            "active": true
+        },
+        {
+            "code": "vijayapura.chadachan",
+            "name": "Chadachan",
+            "districtCode": "VIJAYAPURA",
+            "active": true
+        },
+        {
+            "code": "vijayapura.babaleshwar ",
+            "name": "Babaleshwar ",
+            "districtCode": "VIJAYAPURA",
+            "active": true
+        },
+        {
+            "code": "vijayapura.bagewadi",
+            "name": "Bagewadi",
+            "districtCode": "VIJAYAPURA",
+            "active": true
+        },
+        {
+            "code": "vijayapura.kolar",
+            "name": "Kolar",
+            "districtCode": "VIJAYAPURA",
+            "active": true
+        },
+        {
+            "code": "vijayapura.muddebihal",
+            "name": "Muddebihal",
+            "districtCode": "VIJAYAPURA",
+            "active": true
+        },
+        {
+            "code": "vijayapura.talikote",
+            "name": "Talikote",
+            "districtCode": "VIJAYAPURA",
+            "active": true
+        },
+        {
+            "code": "vijayapura.devarahipparagi",
+            "name": "Devarahipparagi",
+            "districtCode": "VIJAYAPURA",
+            "active": true
+        },
+        {
+            "code": "vijayapura.sindagi",
+            "name": "Sindagi",
+            "districtCode": "VIJAYAPURA",
+            "active": true
+        },
+        {
+            "code": "vijayapura.indi",
+            "name": "Indi",
+            "districtCode": "VIJAYAPURA",
+            "active": true
+        },
+        {
+            "code": "yadgir.shahapur",
+            "name": "Shahapur",
+            "districtCode": "YADGIR",
+            "active": true
+        },
+        
+        {
+            "code": "yadgir.hunasagi",
+            "name": "Hunasagi",
+            "districtCode": "YADGIR",
+            "active": true
+        },
+        {
+            "code": "yadgir.yadgir",
+            "name": "Yadgir",
+            "districtCode": "YADGIR",
+            "active": true
+        },
+        {
+            "code": "yadgir.gurmithkal",
+            "name": "Gurmithkal",
+            "districtCode": "YADGIR",
+            "active": true
+        }
   ]
 }

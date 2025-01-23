@@ -3,24 +3,14 @@
     "moduleName": "Incident",
     "RejectReasons": [
         {
-            "name": "Reason 1",
-            "code": "Reason_one",
+            "name": "Duplicate Ticket",
+            "code": "DUPLICATE_TICKET",
             "active": true
         },
         {
-            "name": "Reason 2",
-            "code": "Reason_two",
+            "name": "Educated End User",
+            "code": "EDUCATED_END_USER",
             "active": true
-        },
-        {
-            "name": "Reason 3",
-            "code": "Reason_three",
-            "active": true
-        },
-        {
-            "name": "Reason 4",
-            "code": "Reason_four",
-            "active": true
-        }    
+        }
     ]
 }

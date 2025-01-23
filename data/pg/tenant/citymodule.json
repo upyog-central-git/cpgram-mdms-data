@@ -417,7 +417,13 @@
         {
           "code": "pg"
         },
-      
+        {
+          "code": "pg.dummy"
+        },
+        
+        {
+          "code": "pg.dummya"
+        },
         {
           "code": "pg.chandrabandaprimaryhealthcentre"
         },
@@ -487,9 +493,7 @@
         {
           "code": "pg.mustur"
         },
-        {
-          "code": "pg.masarkal"
-        },
+        
         {
           "code": "pg.kopparsc"
         },
@@ -520,9 +524,7 @@
         {
           "code": "pg.ramdurga"
         },
-        {
-          "code": "pg.gabbursc"
-        },
+        
         {
           "code": "pg.nagadadinni"
         },
@@ -709,9 +711,7 @@
         {
           "code": "pg.ballatagi"
         },
-        {
-          "code": "pg.byagawatsc"
-        },
+        
         {
           "code": "pg.hirekotnekal"
         },
@@ -788,7 +788,7 @@
             "code": "pg.singanodi"
         },
         {
-            "code": "pg.ukhanapur"
+            "code": "pg.ukhanapurhukkeri"
         },
         {
             "code": "pg.yedlapur"
@@ -874,9 +874,7 @@
         {
             "code": "pg.goladinni"
         },
-        {
-            "code": "pg.hkotnekaldroomsubcentre"
-        },
+        
         {
             "code": "pg.hallihosur"
         },
@@ -895,9 +893,7 @@
         {
             "code": "pg.hirehangi"
         },
-        {
-            "code": "pg.byagawat"
-        },
+        
         {
             "code": "pg.balllatagi"
         },
@@ -929,7 +925,7 @@
             "code": "pg.sangapur"
         },
         {
-            "code": "pg.tadkal"
+            "code": "pg.tadkalphc"
         },
         {
             "code": "pg.ramdurga24x7"
@@ -1197,7 +1193,2505 @@
         },
         {
           "code": "pg.annurphc"
-      }
+        },
+        {
+          "code": "pg.bagalkot"
+      },
+      {
+          "code": "pg.shirurkukanur"
+      },
+      {
+          "code": "pg.kamatagi"
+      },
+      {
+          "code": "pg.hiresinganagutti"
+      },
+      {
+          "code": "pg.chittaragi"
+      },
+      {
+          "code": "pg.kandagall"
+      },
+      {
+          "code": "pg.togunshi"
+      },
+      {
+          "code": "pg.halakurki"
+      },
+      {
+          "code": "pg.katageri"
+      },
+      {
+          "code": "pg.kulagericross"
+      },
+      {
+          "code": "pg.mustigeri"
+      },
+      {
+          "code": "pg.belur"
+      },
+      {
+          "code": "pg.malali"
+      },
+      {
+          "code": "pg.lokapur"
+      },
+      {
+          "code": "pg.kasabajambagi"
+      },
+      {
+          "code": "pg.metagudda"
+      },
+      {
+          "code": "pg.kaladagi"
+      },
+      {
+          "code": "pg.kundaragiyallapur"
+      },
+      {
+          "code": "pg.halagali"
+      },
+      {
+          "code": "pg.uttur"
+      },
+      {
+          "code": "pg.yadahalli"
+      },
+      {
+          "code": "pg.shirolmudhol"
+      },
+      {
+          "code": "pg.aihole"
+      },
+      {
+          "code": "pg.gudur"
+      },
+      {
+          "code": "pg.nagur"
+      },
+      {
+          "code": "pg.chimmad"
+      },
+      {
+          "code": "pg.centerteradal"
+      },
+      {
+          "code": "pg.rabakavi"
+      },
+      {
+          "code": "pg.navalagi"
+      },
+      {
+          "code": "pg.jamakhandi"
+      },
+      {
+          "code": "pg.konnurmuddebihal"
+      },
+      {
+          "code": "pg.gothe"
+      },
+      {
+          "code": "pg.chikkalakicross"
+      },
+      {
+          "code": "pg.linganur"
+      },
+      {
+          "code": "pg.marol"
+      },
+      {
+          "code": "pg.dhannur"
+      },
+      {
+          "code": "pg.bennurbagalkot"
+      },
+      {
+          "code": "pg.pattadkall"
+      },
+      {
+          "code": "pg.raravi"
+      },
+      {
+          "code": "pg.karur"
+      },
+      {
+          "code": "pg.talur"
+      },
+      {
+          "code": "pg.bhagewadi"
+      },
+      {
+          "code": "pg.hatcholli"
+      },
+      {
+          "code": "pg.ravihal"
+      },
+      {
+          "code": "pg.orvayi"
+      },
+      {
+          "code": "pg.mustagatti"
+      },
+      {
+          "code": "pg.siddammanhalli"
+      },
+      {
+          "code": "pg.korlagudi"
+      },
+      {
+          "code": "pg.sangankalu"
+      },
+      {
+          "code": "pg.chellagurki"
+      },
+      {
+          "code": "pg.mokagonahal"
+      },
+      {
+          "code": "pg.sindavala"
+      },
+      {
+          "code": "pg.yaragudi"
+      },
+      {
+          "code": "pg.yemmigenoor"
+      },
+      {
+          "code": "pg.ramasagar"
+      },
+      {
+          "code": "pg.devasamudra"
+      },
+      {
+          "code": "pg.kuruvalli"
+      },
+      {
+          "code": "pg.bandri"
+      },
+      {
+          "code": "pg.vittalapur"
+      },
+      {
+          "code": "pg.karikatti"
+      },
+      {
+          "code": "pg.udikeri"
+      },
+      {
+          "code": "pg.suthagatti"
+      },
+      {
+          "code": "pg.madlur"
+      },
+      {
+          "code": "pg.inchal"
+      },
+      {
+          "code": "pg.tallur"
+      },
+      {
+          "code": "pg.surebhan"
+      },
+      {
+          "code": "pg.batakuraki"
+      },
+      {
+          "code": "pg.mudakavi"
+      },
+      {
+          "code": "pg.budanur"
+      },
+      {
+          "code": "pg.chachadi"
+      },
+      {
+          "code": "pg.hosurphc"
+      },
+      {
+          "code": "pg.sangoli"
+      },
+      {
+          "code": "pg.asundi"
+      },
+      {
+          "code": "pg.mkhuballi"
+      },
+      {
+          "code": "pg.dodwad"
+      },
+      {
+          "code": "pg.hirekumbi"
+      },
+      {
+          "code": "pg.inamhongal"
+      },
+      {
+          "code": "pg.ambadgatti"
+      },
+      {
+          "code": "pg.bailurone"
+      },
+      {
+          "code": "pg.budarkatti"
+      },
+      {
+          "code": "pg.deshnoor"
+      },
+      {
+          "code": "pg.neginhal"
+      },
+      {
+          "code": "pg.yakkundione"
+      },
+      {
+          "code": "pg.hulkund"
+      },
+      {
+          "code": "pg.kadabi"
+      },
+      {
+          "code": "pg.vannur"
+      },
+      {
+          "code": "pg.hunshikatti"
+      },
+      {
+          "code": "pg.katkol"
+      },
+      {
+          "code": "pg.ram nagar"
+      },
+      {
+          "code": "pg.vadagov"
+      },
+      {
+          "code": "pg.yallur"
+      },
+      {
+          "code": "pg.kadoli"
+      },
+      {
+          "code": "pg.basapur"
+      },
+      {
+          "code": "pg.daddi"
+      },
+      {
+          "code": "pg.sankratti"
+      },
+      {
+          "code": "pg.satti"
+      },
+      {
+          "code": "pg.haliyal"
+      },
+      {
+          "code": "pg.pachapur"
+      },
+      {
+          "code": "pg.sulebhavi"
+      },
+      {
+          "code": "pg.chougalewaditilakwadi"
+      },
+      {
+          "code": "pg.arjunwada"
+      },
+      {
+          "code": "pg.badakundri"
+      },
+      {
+          "code": "pg.benewadi"
+      },
+      {
+          "code": "pg.nognihal"
+      },
+      {
+          "code": "pg.shindikurbetta"
+      },
+      {
+          "code": "pg.khanagaon"
+      },
+      {
+          "code": "pg.akkatangehal"
+      },
+      {
+          "code": "pg.ankalagi"
+      },
+      {
+          "code": "pg.hudali"
+      },
+      {
+          "code": "pg.kulgod"
+      },
+      {
+          "code": "pg.melavanki"
+      },
+      {
+          "code": "pg.masaguppi"
+      },
+      {
+          "code": "pg.ganebail"
+      },
+      {
+          "code": "pg.ashoknagarkhanapur"
+      },
+      {
+          "code": "pg.halasi"
+      },
+      {
+          "code": "pg.kineaye"
+      },
+      {
+          "code": "pg.muttaga"
+      },
+      {
+          "code": "pg.uchagov"
+      },
+      {
+          "code": "pg.bendigeri"
+      },
+      {
+          "code": "pg.bidi"
+      },
+      {
+          "code": "pg.parishwad"
+      },
+      {
+          "code": "pg.rkmini nagar"
+      },
+      {
+          "code": "pg.isalampur"
+      },
+      {
+          "code": "pg.hullalli"
+      },
+      {
+          "code": "pg.bairanatti"
+      },
+      {
+          "code": "pg.balobala"
+      },
+      {
+          "code": "pg.betagerione"
+      },
+      {
+          "code": "pg.hallur"
+      },
+      {
+          "code": "pg.talkatnala"
+      },
+      {
+          "code": "pg.tukkanatti"
+      },
+      {
+          "code": "pg.kanagala"
+      },
+      {
+          "code": "pg.mamadapur"
+      },
+      {
+          "code": "pg.tavag"
+      },
+      {
+          "code": "pg.yamakanamaradi"
+      },
+      {
+          "code": "pg.vantamuri"
+      },
+      {
+          "code": "pg.honaga"
+      },
+      {
+          "code": "pg.ukhanapur"
+      },
+      {
+          "code": "pg.ingali"
+      },
+      {
+          "code": "pg.shirguppi"
+      },
+      {
+          "code": "pg.yadur"
+      },
+      {
+          "code": "pg.bedakihal"
+      },
+      {
+          "code": "pg.sadhalaga"
+      },
+      {
+          "code": "pg.jainapurvijayapura"
+      },
+      {
+          "code": "pg.benadi"
+      },
+      {
+          "code": "pg.karadga"
+      },
+      {
+          "code": "pg.mangur"
+      },
+      {
+          "code": "pg.ankali"
+      },
+      {
+          "code": "pg.kerur"
+      },
+      {
+          "code": "pg.nasalapur"
+      },
+      {
+          "code": "pg.soundalaga"
+      },
+      {
+          "code": "pg.bugatealuru"
+      },
+      {
+          "code": "pg.hebbalone"
+      },
+      {
+          "code": "pg.mangsoli"
+      },
+      {
+          "code": "pg.pattankudi"
+      },
+      {
+          "code": "pg.ugar"
+      },
+      {
+          "code": "pg.akkol"
+      },
+      {
+          "code": "pg.mankapur"
+      },
+      {
+          "code": "pg.galatga"
+      },
+      {
+          "code": "pg.harugeri"
+      },
+      {
+          "code": "pg.hidakal"
+      },
+      {
+          "code": "pg.kakamari"
+      },
+      {
+          "code": "pg.kookatunoor"
+      },
+      {
+          "code": "pg.moole"
+      },
+      {
+          "code": "pg.chinchalione"
+      },
+      {
+          "code": "pg.byakud"
+      },
+      {
+          "code": "pg.ananthpur"
+      },
+      {
+          "code": "pg.madhabhavi"
+      },
+      {
+          "code": "pg.morabraibag"
+      },
+      {
+          "code": "pg.aingli"
+      },
+      {
+          "code": "pg.thelsanga"
+      },
+      {
+          "code": "pg.ainapurathani"
+      },
+      {
+          "code": "pg.kargove"
+      },
+      {
+          "code": "pg.khadakalath"
+      },
+      {
+          "code": "pg.nirna"
+      },
+      {
+          "code": "pg.changlera"
+      },
+      {
+          "code": "pg.bhemalkheda"
+      },
+      {
+          "code": "pg.hudgi"
+      },
+      {
+          "code": "pg.talmadgi"
+      },
+      {
+          "code": "pg.kodambal"
+      },
+      {
+          "code": "pg.kankatta"
+      },
+      {
+          "code": "pg.ghatboral"
+      },
+      {
+          "code": "pg.dubalagundi"
+      },
+      {
+          "code": "pg.hallikhed k"
+      },
+      {
+          "code": "pg.mudbi"
+      },
+      {
+          "code": "pg.harkood"
+      },
+      {
+          "code": "pg.kalhora"
+      },
+      {
+          "code": "pg.kohinoor"
+      },
+      {
+          "code": "pg.manthal"
+      },
+      {
+          "code": "pg.halhalli"
+      },
+      {
+          "code": "pg.kanaji"
+      },
+      {
+          "code": "pg.ranjol kheni"
+      },
+      {
+          "code": "pg.manhalli"
+      },
+      {
+          "code": "pg.bagdal"
+      },
+      {
+          "code": "pg.kamthana"
+      },
+      {
+          "code": "pg.chillargi"
+      },
+      {
+          "code": "pg.yarnalli"
+      },
+      {
+          "code": "pg.ghodampalli"
+      },
+      {
+          "code": "pg.beeri"
+      },
+      {
+          "code": "pg.thanakushnoor"
+      },
+      {
+          "code": "pg.torna"
+      },
+      {
+          "code": "pg.halbarga"
+      },
+      {
+          "code": "pg.bhatambra"
+      },
+      {
+          "code": "pg.ujalamba"
+      },
+      {
+          "code": "pg.dawargoan"
+      },
+      {
+          "code": "pg.warawatti"
+      },
+      {
+          "code": "pg.mehakar"
+      },
+      {
+          "code": "pg.dongapur"
+      },
+      {
+          "code": "pg.ghotala"
+      },
+      {
+          "code": "pg.ladwanti"
+      },
+      {
+          "code": "pg.bidricolony"
+      },
+      {
+          "code": "pg.belura"
+      },
+      {
+          "code": "pg.yalagodu"
+      },
+      {
+          "code": "pg.dshalli"
+      },
+      {
+          "code": "pg.muddapura"
+      },
+      {
+          "code": "pg.kalgere"
+      },
+      {
+          "code": "pg.lakshmisagaravijapura"
+      },
+      {
+          "code": "pg.kogunde"
+      },
+      {
+          "code": "pg.kasavarahatti"
+      },
+      {
+          "code": "pg.haikal"
+      },
+      {
+          "code": "pg.belagatta"
+      },
+      {
+          "code": "pg.hireguntunur"
+      },
+      {
+          "code": "pg.cghalli"
+      },
+      {
+          "code": "pg.grhalli"
+      },
+      {
+          "code": "pg.imangala"
+      },
+      {
+          "code": "pg.bharampur"
+      },
+      {
+          "code": "pg.gulilalu"
+      },
+      {
+          "code": "pg.avkottige"
+      },
+      {
+          "code": "pg.pandrahalli"
+      },
+      {
+          "code": "pg.godabanahal"
+      },
+      {
+          "code": "pg.vvpura"
+      },
+      {
+          "code": "pg.mallappanahalli"
+      },
+      {
+          "code": "pg.rangenahalli"
+      },
+      {
+          "code": "pg.huvinahole"
+      },
+      {
+          "code": "pg.hosayalanadu"
+      },
+      {
+          "code": "pg.hariyabbe"
+      },
+      {
+          "code": "pg.abbinahole"
+      },
+      {
+          "code": "pg.beturpalya"
+      },
+      {
+          "code": "pg.khandenahalli"
+      },
+      {
+          "code": "pg.adivala"
+      },
+      {
+          "code": "pg.jghalli"
+      },
+      {
+          "code": "pg.ranganathapura"
+      },
+      {
+          "code": "pg.doddachhelluru"
+      },
+      {
+          "code": "pg.goudihalli"
+      },
+      {
+          "code": "pg.gunderi"
+      },
+      {
+          "code": "pg.nghalli"
+      },
+      {
+          "code": "pg.jankal"
+      },
+      {
+          "code": "pg.talya"
+      },
+      {
+          "code": "pg.chitrahalli"
+      },
+      {
+          "code": "pg.malladihalli"
+      },
+      {
+          "code": "pg.shivapura"
+      },
+      {
+          "code": "pg.chikkajajur"
+      },
+      {
+          "code": "pg.muttagadur"
+      },
+      {
+          "code": "pg.tuppadahalli"
+      },
+      {
+          "code": "pg.thalikatte"
+      },
+      {
+          "code": "pg.ramagiri"
+      },
+      {
+          "code": "pg.devigere"
+      },
+      {
+          "code": "pg.bagur"
+      },
+      {
+          "code": "pg.sanehalli"
+      },
+      {
+          "code": "pg.madadakere"
+      },
+      {
+          "code": "pg.mallappanahally"
+      },
+      {
+          "code": "pg.ballalasamudra"
+      },
+      {
+          "code": "pg.bgkere"
+      },
+      {
+          "code": "pg.chikkobanahalli"
+      },
+      {
+          "code": "pg.kondlahalli"
+      },
+      {
+          "code": "pg.ashokasiddapura"
+      },
+      {
+          "code": "pg.hirekerehalli"
+      },
+      {
+          "code": "pg.nagasamudra"
+      },
+      {
+          "code": "pg.mustlagummi"
+      },
+      {
+          "code": "pg.ramjogihalli"
+      },
+      {
+          "code": "pg.nelagetanahatti"
+      },
+      {
+          "code": "pg.thalluku"
+      },
+      {
+          "code": "pg.kalamarahalli"
+      },
+      {
+          "code": "pg.siddeswaranadurga"
+      },
+      {
+          "code": "pg.yalladakere"
+      },
+      {
+          "code": "pg.goparahalli"
+      },
+      {
+          "code": "pg.tnkote"
+      },
+      {
+          "code": "pg.jajur"
+      },
+      {
+          "code": "pg.meerasabihalli"
+      },
+      {
+          "code": "pg.chennammanagathihalli"
+      },
+      {
+          "code": "pg.mathodu"
+      },
+      {
+          "code": "pg.gnkere"
+      },
+      {
+          "code": "pg.doddularthi"
+      },
+      {
+          "code": "pg.hdpura"
+      },
+      {
+          "code": "pg.bommigatti"
+      },
+      {
+          "code": "pg.mishrikoti"
+      },
+      {
+          "code": "pg.ganjigatti"
+      },
+      {
+          "code": "pg.  anand nagar"
+      },
+      {
+          "code": "pg.  ayodhya nagar"
+      },
+      {
+          "code": "pg.  heggeri"
+      },
+      {
+          "code": "pg.alnavar"
+      },
+      {
+          "code": "pg.  bharalotri"
+      },
+      {
+          "code": "pg.  hdmcmaternityhospital"
+      },
+      {
+          "code": "pg.koliwad"
+      },
+      {
+          "code": "pg.ingalahalli"
+      },
+      {
+          "code": "pg.belahar"
+      },
+      {
+          "code": "pg.morabdharwad"
+      },
+      {
+          "code": "pg.javoor"
+      },
+      {
+          "code": "pg.shalwadi"
+      },
+      {
+          "code": "pg.doddaker"
+      },
+      {
+          "code": "pg.gandhiwad"
+      },
+      {
+          "code": "pg.ganeshpethhospital"
+      },
+      {
+          "code": "pg.yaliwal"
+      },
+      {
+          "code": "pg.noolvi"
+      },
+      {
+          "code": "pg.adhargunchi"
+      },
+      {
+          "code": "pg.yaraguppi"
+      },
+      {
+          "code": "pg.baradawad"
+      },
+      {
+          "code": "pg.ingalagi"
+      },
+      {
+          "code": "pg.sadarsopa"
+      },
+      {
+          "code": "pg.  purohitnagar"
+      },
+      {
+          "code": "pg.  ramalingeshwarnagar"
+      },
+      {
+          "code": "pg.sangmeshwar"
+      },
+      {
+          "code": "pg.saunshi"
+      },
+      {
+          "code": "pg.gudageri"
+      },
+      {
+          "code": "pg.madaramaddi"
+      },
+      {
+          "code": "pg.alagawadi"
+      },
+      {
+          "code": "pg.yavagal"
+      },
+      {
+          "code": "pg.kurtakoti"
+      },
+      {
+          "code": "pg.belavanki"
+      },
+      {
+          "code": "pg.bellatti"
+      },
+      {
+          "code": "pg.hebbal"
+      },
+      {
+          "code": "pg.balehosur"
+      },
+      {
+          "code": "pg.yalavatti"
+      },
+      {
+          "code": "pg.shigli"
+      },
+      {
+          "code": "pg.suranagi"
+      },
+      {
+          "code": "pg.jagapur"
+      },
+      {
+          "code": "pg.chikkanaragund"
+      },
+      {
+          "code": "pg.shirolnaragund"
+      },
+      {
+          "code": "pg.chinchali"
+      },
+      {
+          "code": "pg.mulagund"
+      },
+      {
+          "code": "pg.kanavi"
+      },
+      {
+          "code": "pg.sudi"
+      },
+      {
+          "code": "pg.mushigeri"
+      },
+      {
+          "code": "pg.shantageri"
+      },
+      {
+          "code": "pg.nagavi"
+      },
+      {
+          "code": "pg.harti"
+      },
+      {
+          "code": "pg.hulakoti"
+      },
+      {
+          "code": "pg.dambala"
+      },
+      {
+          "code": "pg.hirewadatti"
+      },
+      {
+          "code": "pg.hammagi"
+      },
+      {
+          "code": "pg.lakkundi"
+      },
+      {
+          "code": "pg.jantli shirur"
+      },
+      {
+          "code": "pg.kadampur"
+      },
+      {
+          "code": "pg.abbigeri"
+      },
+      {
+          "code": "pg.nidagundi"
+      },
+      {
+          "code": "pg.hombala"
+      },
+      {
+          "code": "pg.kadadi"
+      },
+      {
+          "code": "pg.holealur"
+      },
+      {
+          "code": "pg.savadi"
+      },
+      {
+          "code": "pg.devihosur"
+      },
+      {
+          "code": "pg.devagiri"
+      },
+      {
+          "code": "pg.karjagi"
+      },
+      {
+          "code": "pg.konankeri"
+      },
+      {
+          "code": "pg.chandapur"
+      },
+      {
+          "code": "pg.tadas"
+      },
+      {
+          "code": "pg.araleshwara"
+      },
+      {
+          "code": "pg.agadi"
+      },
+      {
+          "code": "pg.adur"
+      },
+      {
+          "code": "pg.bommanahalli"
+      },
+      {
+          "code": "pg.baichavalli"
+      },
+      {
+          "code": "pg.kopparasikoppa"
+      },
+      {
+          "code": "pg.hirebhendigeri"
+      },
+      {
+          "code": "pg.hulagur"
+      },
+      {
+          "code": "pg.karadagi"
+      },
+      {
+          "code": "pg.yalavagi"
+      },
+      {
+          "code": "pg.kadakol"
+      },
+      {
+          "code": "pg.kalasur"
+      },
+      {
+          "code": "pg.hosaritti"
+      },
+      {
+          "code": "pg.handiganur"
+      },
+      {
+          "code": "pg.havanur"
+      },
+      {
+          "code": "pg.shirgoda"
+      },
+      {
+          "code": "pg.chikkanshihosur"
+      },
+      {
+          "code": "pg.shadaguppi"
+      },
+      {
+          "code": "pg.sheshagiri"
+      },
+      {
+          "code": "pg.tilavalli"
+      },
+      {
+          "code": "pg.chikkabasur"
+      },
+      {
+          "code": "pg.itagiranebennur"
+      },
+      {
+          "code": "pg.kajjari"
+      },
+      {
+          "code": "pg.makanur"
+      },
+      {
+          "code": "pg.halageri"
+      },
+      {
+          "code": "pg.tavermellihalli"
+      },
+      {
+          "code": "pg.chalageri"
+      },
+      {
+          "code": "pg.kadaramandalagi"
+      },
+      {
+          "code": "pg.shankripura"
+      },
+      {
+          "code": "pg.kurubgonda"
+      },
+      {
+          "code": "pg.hansbhavi"
+      },
+      {
+          "code": "pg.chikkerur"
+      },
+      {
+          "code": "pg.madluru"
+      },
+      {
+          "code": "pg.halur"
+      },
+      {
+          "code": "pg.tadakanahalli"
+      },
+      {
+          "code": "pg.medur"
+      },
+      {
+          "code": "pg.belgalpeth"
+      },
+      {
+          "code": "pg.irani"
+      },
+      {
+          "code": "pg.mevundi"
+      },
+      {
+          "code": "pg.negaluru"
+      },
+      {
+          "code": "pg.aladagere"
+      },
+      {
+          "code": "pg.kadur"
+      },
+      {
+          "code": "pg.aremallapur"
+      },
+      {
+          "code": "pg.haranagiri"
+      },
+      {
+          "code": "pg.devaragudda"
+      },
+      {
+          "code": "pg.honnatti"
+      },
+      {
+          "code": "pg.naregal"
+      },
+      {
+          "code": "pg.kaginele"
+      },
+      {
+          "code": "pg.sunakalbidari"
+      },
+      {
+          "code": "pg.kudapali"
+      },
+      {
+          "code": "pg.kuppelur"
+      },
+      {
+          "code": "pg.tumminakatti"
+      },
+      {
+          "code": "pg.koda"
+      },
+      {
+          "code": "pg.attigeri"
+      },
+      {
+          "code": "pg.dundashi"
+      },
+      {
+          "code": "pg.kusunuru"
+      },
+      {
+          "code": "pg.awrad b"
+      },
+      {
+          "code": "pg.kallahangaraga"
+      },
+      {
+          "code": "pg.mahagaon"
+      },
+      {
+          "code": "pg.kamalapur"
+      },
+      {
+          "code": "pg.sonth"
+      },
+      {
+          "code": "pg.dongarigoan"
+      },
+      {
+          "code": "pg.shriinivasa saradagi"
+      },
+      {
+          "code": "pg.harasooru"
+      },
+      {
+          "code": "pg.nandor b"
+      },
+      {
+          "code": "pg.farhatabad"
+      },
+      {
+          "code": "pg.hire savalgi"
+      },
+      {
+          "code": "pg.kadaganchi"
+      },
+      {
+          "code": "pg.kurakunta"
+      },
+      {
+          "code": "pg.khanderayanapalli"
+      },
+      {
+          "code": "pg.kanagadda"
+      },
+      {
+          "code": "pg.itkal"
+      },
+      {
+          "code": "pg.madana"
+      },
+      {
+          "code": "pg.kolkunda"
+      },
+      {
+          "code": "pg.kodla"
+      },
+      {
+          "code": "pg.yadaga"
+      },
+      {
+          "code": "pg.nidgunda"
+      },
+      {
+          "code": "pg.salebeeranalli"
+      },
+      {
+          "code": "pg.chandankera"
+      },
+      {
+          "code": "pg.ainapurchincholi"
+      },
+      {
+          "code": "pg.rudanor"
+      },
+      {
+          "code": "pg.miriyana"
+      },
+      {
+          "code": "pg.sulepeth"
+      },
+      {
+          "code": "pg.mogha"
+      },
+      {
+          "code": "pg.koodli"
+      },
+      {
+          "code": "pg.ratkal"
+      },
+      {
+          "code": "pg.mudabula"
+      },
+      {
+          "code": "pg.korwar"
+      },
+      {
+          "code": "pg.kallipparga"
+      },
+      {
+          "code": "pg.arankal"
+      },
+      {
+          "code": "pg.mangalgi"
+      },
+      {
+          "code": "pg.tengali"
+      },
+      {
+          "code": "pg.dandothi"
+      },
+      {
+          "code": "pg.diggoan"
+      },
+      {
+          "code": "pg.alloli"
+      },
+      {
+          "code": "pg.kollur"
+      },
+      {
+          "code": "pg.nalwar"
+      },
+      {
+          "code": "pg.rawor"
+      },
+      {
+          "code": "pg.naribol"
+      },
+      {
+          "code": "pg.biryal b"
+      },
+      {
+          "code": "pg.andola"
+      },
+      {
+          "code": "pg.ganwar"
+      },
+      {
+          "code": "pg.ijeri"
+      },
+      {
+          "code": "pg.wadagera"
+      },
+      {
+          "code": "pg.jeretagi"
+      },
+      {
+          "code": "pg.malli"
+      },
+      {
+          "code": "pg.aralagundagi"
+      },
+      {
+          "code": "pg.mandeevala"
+      },
+      {
+          "code": "pg.koodi"
+      },
+      {
+          "code": "pg.ankalaga"
+      },
+      {
+          "code": "pg.gobbur"
+      },
+      {
+          "code": "pg.badadal"
+      },
+      {
+          "code": "pg.atanoor"
+      },
+      {
+          "code": "pg.revoor"
+      },
+      {
+          "code": "pg.desaikallur"
+      },
+      {
+          "code": "pg.karajagi"
+      },
+      {
+          "code": "pg.udachan"
+      },
+      {
+          "code": "pg.mashal"
+      },
+      {
+          "code": "pg.mannur"
+      },
+      {
+          "code": "pg.yalasangi"
+      },
+      {
+          "code": "pg.madiyal"
+      },
+      {
+          "code": "pg.golab"
+      },
+      {
+          "code": "pg.jidga"
+      },
+      {
+          "code": "pg.dhangapur"
+      },
+      {
+          "code": "pg.bhusnoor"
+      },
+      {
+          "code": "pg.sarsamba"
+      },
+      {
+          "code": "pg.padasawalgi"
+      },
+      {
+          "code": "pg.hirolli"
+      },
+      {
+          "code": "pg.vksalagar"
+      },
+      
+      {
+          "code": "pg.belamagi"
+      },
+      {
+          "code": "pg.ambalga"
+      },
+      {
+          "code": "pg.honakirangi"
+      },
+      {
+          "code": "pg.bannikoppa"
+      },
+      {
+          "code": "pg.itagikukanur"
+      },
+      {
+          "code": "pg.talakal"
+      },
+      {
+          "code": "pg.kavalur"
+      },
+      {
+          "code": "pg.alawandi"
+      },
+      {
+          "code": "pg.betageri"
+      },
+      {
+          "code": "pg.bhagyanagara"
+      },
+      {
+          "code": "pg.gondabal"
+      },
+      {
+          "code": "pg.ginagera"
+      },
+      {
+          "code": "pg.benakal"
+      },
+      {
+          "code": "pg.shirurbagalkot"
+      },
+      {
+          "code": "pg.hitnal"
+      },
+      {
+          "code": "pg.hulagi"
+      },
+      {
+          "code": "pg.hosabandiharalapur"
+      },
+      {
+          "code": "pg.sanganal"
+      },
+      {
+          "code": "pg.mudhol"
+      },
+      {
+          "code": "pg.vajarabandi"
+      },
+      {
+          "code": "pg.indaragi"
+      },
+      {
+          "code": "pg.irkalgada"
+      },
+      {
+          "code": "pg.kukanapalli"
+      },
+      {
+          "code": "pg.bevur"
+      },
+      {
+          "code": "pg.hirebommanal"
+      },
+      {
+          "code": "pg.gunnal"
+      },
+      {
+          "code": "pg.budagumpa"
+      },
+      {
+          "code": "pg.bennurkaratagi"
+      },
+      {
+          "code": "pg.siddapur"
+      },
+      {
+          "code": "pg.muslapur"
+      },
+      {
+          "code": "pg.navali"
+      },
+      
+      {
+          "code": "pg.balotagi"
+      },
+      {
+          "code": "pg.hiregonnagara"
+      },
+      {
+          "code": "pg.malagitti"
+      },
+      {
+          "code": "pg.hulgera"
+      },
+      {
+          "code": "pg.hanumasagara"
+      },
+      {
+          "code": "pg.chalagera"
+      },
+      {
+          "code": "pg.hosakera daggi"
+      },
+      {
+          "code": "pg.sangapur"
+      },
+      {
+          "code": "pg.anegundi"
+      },
+      {
+          "code": "pg.hiremannapur"
+      },
+      {
+          "code": "pg.mudenur"
+      },
+      {
+          "code": "pg.dotihal"
+      },
+      {
+          "code": "pg.gandadal"
+      },
+      {
+          "code": "pg.katagera"
+      },
+      {
+          "code": "pg.devbhag"
+      },
+      {
+          "code": "pg.ulga"
+      },
+      {
+          "code": "pg.angadi"
+      },
+      {
+          "code": "pg.gersoppa"
+      },
+      {
+          "code": "pg.hosad"
+      },
+      {
+          "code": "pg.kharva"
+      },
+      {
+          "code": "pg.belake"
+      },
+      {
+          "code": "pg.konar"
+      },
+      {
+          "code": "pg.manki"
+      },
+      {
+          "code": "pg.devalmakki"
+      },
+      {
+          "code": "pg.siddar"
+      },
+      {
+          "code": "pg.  karwar"
+      },
+      {
+          "code": "pg.mudga"
+      },
+      {
+          "code": "pg.todur"
+      },
+      {
+          "code": "pg.amdalli"
+      },
+      {
+          "code": "pg.haldipur"
+      },
+      {
+          "code": "pg.kadtoka"
+      },
+      {
+          "code": "pg.samsi"
+      },
+      {
+          "code": "pg.hillur"
+      },
+      {
+          "code": "pg.gokarna"
+      },
+      {
+          "code": "pg.kodkani"
+      },
+      {
+          "code": "pg.santeguli"
+      },
+      {
+          "code": "pg.muroor"
+      },
+      {
+          "code": "pg.salkod"
+      },
+      {
+          "code": "pg.hattikeri"
+      },
+      {
+          "code": "pg.harwad"
+      },
+      {
+          "code": "pg.chendiya"
+      },
+      {
+          "code": "pg.balkur"
+      },
+      {
+          "code": "pg.murdeshwar"
+      },
+      {
+          "code": "pg.bailur"
+      },
+      {
+          "code": "pg.katgal"
+      },
+      {
+          "code": "pg.kagal"
+      },
+      {
+          "code": "pg.hiregutti"
+      },
+      {
+          "code": "pg.chittakula"
+      },
+      {
+          "code": "pg.halaga"
+      },
+      {
+          "code": "pg.kadra"
+      },
+      {
+          "code": "pg.belse"
+      },
+      {
+          "code": "pg.bankikodla"
+      },
+      {
+          "code": "pg.hankon"
+      },
+      {
+          "code": "pg.nandolli"
+      },
+      {
+          "code": "pg.malavalli"
+      },
+      {
+          "code": "pg.kalache"
+      },
+      {
+          "code": "pg.  dandeli"
+      },
+      {
+          "code": "pg.manchikeri"
+      },
+      {
+          "code": "pg.kundaragibilagi"
+      },
+      {
+          "code": "pg.arasinageri"
+      },
+      {
+          "code": "pg.dasanakoppa"
+      },
+      {
+          "code": "pg.bislakoppa"
+      },
+      {
+          "code": "pg.sambrani"
+      },
+      {
+          "code": "pg.murkawad"
+      },
+      {
+          "code": "pg.  teragaon"
+      },
+      {
+          "code": "pg.kakkalli"
+      },
+      {
+          "code": "pg.mensi"
+      },
+      {
+          "code": "pg.hulekal"
+      },
+      {
+          "code": "pg.banavasi"
+      },
+      {
+          "code": "pg.dehalli"
+      },
+      {
+          "code": "pg.sugavi"
+      },
+      {
+          "code": "pg.belavatigi"
+      },
+      {
+          "code": "pg.mangalawada"
+      },
+      {
+          "code": "pg.bhagavati"
+      },
+      {
+          "code": "pg.kiravatti"
+      },
+      {
+          "code": "pg.kyadagi"
+      },
+      {
+          "code": "pg.hegadekatte"
+      },
+      {
+          "code": "pg.korlakai"
+      },
+      {
+          "code": "pg.kolsirsi"
+      },
+      {
+          "code": "pg.herur"
+      },
+      {
+          "code": "pg.kansur"
+      },
+      {
+          "code": "pg.revankatta"
+      },
+      {
+          "code": "pg.nagatibasapura"
+      },
+      {
+          "code": "pg.hirehadagali"
+      },
+      {
+          "code": "pg.kantebennur"
+      },
+      {
+          "code": "pg.nandibevoor"
+      },
+      {
+          "code": "pg.kamalapura"
+      },
+      {
+          "code": "pg.malpangudi"
+      },
+      {
+          "code": "pg.chittawadgi"
+      },
+      {
+          "code": "pg.mariyammanahalli"
+      },
+      {
+          "code": "pg.bennikallu"
+      },
+      {
+          "code": "pg.magimavinahalli"
+      },
+      {
+          "code": "pg.hansi"
+      },
+      {
+          "code": "pg.thambrahalli"
+      },
+      {
+          "code": "pg.bachigondanhalli"
+      },
+      {
+          "code": "pg.sogi"
+      },
+      {
+          "code": "pg.uttangi"
+      },
+      {
+          "code": "pg.holagundi"
+      },
+      {
+          "code": "pg.kogali"
+      },
+      {
+          "code": "pg.alabur"
+      },
+      {
+          "code": "pg.moregere"
+      },
+      {
+          "code": "pg.hakkandi"
+      },
+      {
+          "code": "pg.kayyanahalli"
+      },
+      {
+          "code": "pg.magala"
+      },
+      {
+          "code": "pg.thimmalapura"
+      },
+      {
+          "code": "pg.chikkajogihalli"
+      },
+      {
+          "code": "pg.bellighatta"
+      },
+      {
+          "code": "pg.thoolahalli"
+      },
+      {
+          "code": "pg.alur"
+      },
+      {
+          "code": "pg.hosahalli"
+      },
+      {
+          "code": "pg.gundagathi"
+      },
+      {
+          "code": "pg.harakanalu"
+      },
+      {
+          "code": "pg.kanchikere"
+      },
+      {
+          "code": "pg.bennihalli"
+      },
+      {
+          "code": "pg.chigateri"
+      },
+      {
+          "code": "pg.mathihalli"
+      },
+      {
+          "code": "pg.kamath halli"
+      },
+      {
+          "code": "pg.punabagatta"
+      },
+      {
+          "code": "pg.uchangidura"
+      },
+      {
+          "code": "pg.alagilavada"
+      },
+      {
+          "code": "pg.halavaglu"
+      },
+      {
+          "code": "pg.madihalli"
+      },
+      {
+          "code": "pg.  darga"
+      },
+      {
+          "code": "pg.  shantinagar"
+      },
+      {
+          "code": "pg.umaraj"
+      },
+      {
+          "code": "pg.honaganhalli"
+      },
+      {
+          "code": "pg.ronihal"
+      },
+      {
+          "code": "pg.mulawad"
+      },
+      {
+          "code": "pg.kudagi"
+      },
+      {
+          "code": "pg.vandal"
+      },
+      {
+          "code": "pg.telagi"
+      },
+      {
+          "code": "pg.golasangi"
+      },
+      {
+          "code": "pg.huvinhipparagi "
+      },
+      {
+          "code": "pg.kudarisalawadagi"
+      },
+      {
+          "code": "pg.wadawadagi"
+      },
+      {
+          "code": "pg.inacagalnew"
+      },
+      {
+          "code": "pg.bantanur"
+      },
+      {
+          "code": "pg.kariganur"
+      },
+      {
+          "code": "pg.konnurjamkhandi"
+      },
+      {
+          "code": "pg.tamdaddi"
+      },
+      {
+          "code": "pg.dhavalagi"
+      },
+      {
+          "code": "pg.sasanur"
+      },
+      {
+          "code": "pg.yalawar"
+      },
+      {
+          "code": "pg.korawardr"
+      },
+      {
+          "code": "pg.askidr"
+      },
+      {
+          "code": "pg.ukkali"
+      },
+      {
+          "code": "pg.honnutagi"
+      },
+      {
+          "code": "pg.mamdapura"
+      },
+      {
+          "code": "pg.yakkundi"
+      },
+      {
+          "code": "pg.jainapurchikodi"
+      },
+      {
+          "code": "pg.kanamadi"
+      },
+      {
+          "code": "pg.inchageri"
+      },
+      {
+          "code": "pg.jigivanagi"
+      },
+      {
+          "code": "pg.  yogapur"
+      },
+      {
+          "code": "pg.nagatana"
+      },
+      {
+          "code": "pg.atharga"
+      },
+      {
+          "code": "pg.tamba"
+      },
+      {
+          "code": "pg.mulasavalagi"
+      },
+      {
+          "code": "pg.shivangi"
+      },
+      {
+          "code": "pg.ágarakhed"
+      },
+      {
+          "code": "pg.lachyan"
+      },
+      {
+          "code": "pg.chikbevanur"
+      },
+      {
+          "code": "pg.chandakavatedr"
+      },
+      {
+          "code": "pg.malaghan"
+      },
+      {
+          "code": "pg.nagavibk"
+      },
+      {
+          "code": "pg.nandaragi"
+      },
+      {
+          "code": "pg.zalaki"
+      },
+      {
+          "code": "pg.golageri"
+      },
+      {
+          "code": "pg.yankanchi"
+      },
+      {
+          "code": "pg.halasangi"
+      },
+      {
+          "code": "pg.horti"
+      },
+      {
+          "code": "pg.baradol"
+      },
+      {
+          "code": "pg.khakandaki"
+      },
+      {
+          "code": "pg.loni b k"
+      },
+      {
+          "code": "pg.gogi"
+      },
+      {
+          "code": "pg.vanadurga"
+      },
+      {
+          "code": "pg.shirwal"
+      },
+      {
+          "code": "pg.hattigudur"
+      },
+      {
+          "code": "pg.hayyalb"
+      },
+      {
+          "code": "pg.bendebembali"
+      },
+      {
+          "code": "pg.chatnalli"
+      },
+      {
+          "code": "pg.tadibidi"
+      },
+      {
+          "code": "pg.kurkunda"
+      },
+      {
+          "code": "pg.yalagi"
+      },
+      {
+          "code": "pg.naganur"
+      },
+      {
+          "code": "pg.chamanal"
+      },
+      {
+          "code": "pg.gutti basaveshwar"
+      },
+      {
+          "code": "pg.devargonal"
+      },
+      {
+          "code": "pg.shrinivan pura"
+      },
+      {
+          "code": "pg.hasanapura"
+      },
+      {
+          "code": "pg.hemanoor"
+      },
+      {
+          "code": "pg.kalladevnahalli"
+      },
+      {
+          "code": "pg.balichakra"
+      },
+      {
+          "code": "pg.malahar"
+      },
+      {
+          "code": "pg.kadechur"
+      },
+      {
+          "code": "pg.mhadwar"
+      },
+      {
+          "code": "pg.konkal"
+      },
+      {
+          "code": "pg.azalapur"
+      },
+      {
+          "code": "pg.kandakur"
+      },
+      {
+          "code": "pg.gajarkot"
+      },
+      {
+          "code": "pg.kotagera"
+      },
+      {
+          "code": "pg.pethammapur"
+      },
+      {
+          "code": "pg.honagera"
+      },
+      {
+          "code": "pg.yaragola"
+      },
+      {
+        "code": "pg.badamitalukhospital"
+    },
+    {
+        "code": "pg.bilagitalukhospital"
+    },
+    {
+        "code": "pg.hunagundtalukhospital"
+    },
+    {
+        "code": "pg.jamkhanditalukhospital"
+    },
+    {
+        "code": "pg.mudholtalukhospital"
+    },
+    {
+        "code": "pg.sandurtalukhospital"
+    },
+    {
+        "code": "pg.siragppatalukhospital"
+    },
+    {
+        "code": "pg.devanahallitalukhospital"
+    },
+    {
+        "code": "pg.hoskotetalukhospital"
+    },
+    {
+        "code": "pg.nelamangalatalukhospital"
+    },
+    {
+        "code": "pg.anekaltalukhospital"
+    },
+    {
+        "code": "pg.bangalorenorthtalukhospital"
+    },
+    {
+        "code": "pg.athanitalukhospital"
+    },
+    {
+        "code": "pg.bailhongaltalukhospital"
+    },
+    {
+        "code": "pg.chikoditalukhospital"
+    },
+    {
+        "code": "pg.gokaktalukhospital"
+    },
+    {
+        "code": "pg.hukkeritalukhospital"
+    },
+    {
+        "code": "pg.khanapurtalukhospital"
+    },
+    {
+        "code": "pg.raibagtalukhospital"
+    },
+    {
+        "code": "pg.ramdurgtalukhospital"
+    },
+    {
+        "code": "pg.saundattitalukhospital"
+    },
+    {
+        "code": "pg.auradtalukhospital"
+    },
+    {
+        "code": "pg.bhalkitalukhospital"
+    },
+    {
+        "code": "pg.kolegalatalukahospital"
+    },
+    {
+        "code": "pg.yelandurtalukahospital"
+    },
+    {
+        "code": "pg.bagepallitalukhospital"
+    },
+    {
+        "code": "pg.chintamanitalukhospital"
+    },
+    {
+        "code": "pg.gouribidanurtalukhospital"
+    },
+    {
+        "code": "pg.kadurtalukahospital"
+    },
+    {
+        "code": "pg.koppatalukahospital"
+    },
+    {
+        "code": "pg.mudigeretalukahospitalhospital"
+    },
+    {
+        "code": "pg.narasimharajapuratalukahospital"
+    },
+    {
+        "code": "pg.sringeritalukahospital"
+    },
+    {
+        "code": "pg.tarikeretalukahospital"
+    },
+    {
+        "code": "pg.challkeretalukhospital"
+    },
+    {
+        "code": "pg.hiriyurtalukhospital"
+    },
+    {
+        "code": "pg.holalkeretalukhospital"
+    },
+    {
+        "code": "pg.hosadurgatalukhospital"
+    },
+    {
+        "code": "pg.molakalmurutalukhospital"
+    },
+    {
+        "code": "pg.sulyatalukahospital"
+    },
+    {
+        "code": "pg.channagiritalukhospital"
+    },
+    {
+        "code": "pg.hariharatalukhospital"
+    },
+    {
+        "code": "pg.honnaltalukhospital"
+    },
+    {
+        "code": "pg.jaglurtalukhospital"
+    },
+    {
+        "code": "pg.kalghatagitalukhospital"
+    },
+    {
+        "code": "pg.navalgundtalukhospital"
+    },
+    {
+        "code": "pg.nargundtalukhospital"
+    },
+    {
+        "code": "pg.alurtalukahospital"
+    },
+    {
+        "code": "pg.arasikeretalukahospital"
+    },
+    {
+        "code": "pg.belurtalukahospital"
+    },
+    {
+        "code": "pg.channarayapatnatalukahospital"
+    },
+    {
+        "code": "pg.holenarasipurtalukahospital"
+    },
+    {
+        "code": "pg.sakaleshpurtalukahospital"
+    },
+    {
+        "code": "pg.byadgitalukhospital"
+    },
+    {
+        "code": "pg.hangaltalukhospital"
+    },
+    {
+        "code": "pg.hirekerurtalukhospital"
+    },
+    {
+        "code": "pg.savanurtalukhospital"
+    },
+    {
+        "code": "pg.shiggaontalukhospital"
+    },
+    {
+        "code": "pg.alandtalukhospital"
+    },
+    {
+        "code": "pg.chitapurtalukhospital"
+    },
+    {
+        "code": "pg.jewargitalukhospital"
+    },
+    {
+        "code": "pg.somvarpettalukahospital"
+    },
+    {
+        "code": "pg.virajpettalukahospital"
+    },
+    {
+        "code": "pg.kgfwomenandchildrentaluklevelhospital"
+    },
+    {
+        "code": "pg.bangarpettalukhospital"
+    },
+    {
+        "code": "pg.malurtalukhospital"
+    },
+    {
+        "code": "pg.mulbagaltalukhospital"
+    },
+    {
+        "code": "pg.srinivasapuratalukhospital"
+    },
+    {
+        "code": "pg.gangawathitalukahospital"
+    },
+    {
+        "code": "pg.kushtagitalukahospital"
+    },
+    {
+        "code": "pg.yelburgatalukahospital"
+    },
+    {
+        "code": "pg.krishnarajpettalukhospital"
+    },
+    {
+        "code": "pg.maddurtalukhospital"
+    },
+    {
+        "code": "pg.malavallitalukhospital"
+    },
+    {
+        "code": "pg.nagamangalatalukhospital"
+    },
+    {
+        "code": "pg.pandavapuratalukhospital"
+    },
+    {
+        "code": "pg.srirangapatnatalukhospital"
+    },
+    {
+        "code": "pg.heggadadevankotetalukahospital"
+    },
+    {
+        "code": "pg.hunsurtalukhospital"
+    },
+    {
+        "code": "pg.krishnarajanagaratalukahospital"
+    },
+    {
+        "code": "pg.nanjangudtalukhospital"
+    },
+    {
+        "code": "pg.periyapatnatalukhospital"
+    },
+    {
+        "code": "pg.tnarasipurtalukahospital"
+    },
+    {
+        "code": "pg.channapatnatalukhospital"
+    },
+    {
+        "code": "pg.kanakapuratalukhospital"
+    },
+    {
+        "code": "pg.magaditalukhospital"
+    },
+    {
+        "code": "pg.bhadravathitalukhospital"
+    },
+    {
+        "code": "pg.hosanagartalukhospital"
+    },
+    {
+        "code": "pg.shikaripuratalukhospital"
+    },
+    {
+        "code": "pg.thirthahallitalukhospital"
+    },
+    {
+        "code": "pg.chikkaayakanhallitalukhospital"
+    },
+    {
+        "code": "pg.gubbitalukhospital"
+    },
+    {
+        "code": "pg.koratageretalukhospital"
+    },
+    {
+        "code": "pg.madhugiritalukhospital"
+    },
+    {
+        "code": "pg.pavagadatalukhospital"
+    },
+    {
+        "code": "pg.siratalukhospital"
+    },
+    {
+        "code": "pg.tipturtalukhospital"
+    },
+    {
+        "code": "pg.turuvekeretalukhospital"
+    },
+    {
+        "code": "pg.karkalatalukhospital"
+    },
+    {
+        "code": "pg.kundapuratalukhospital"
+    },
+    {
+        "code": "pg.bhatkaltalukhospital"
+    },
+    {
+        "code": "pg.haliyalatalukhospital"
+    },
+    {
+        "code": "pg.honnavaratalukhospital"
+    },
+    {
+        "code": "pg.kumtatalukhospital"
+    },
+    {
+        "code": "pg.siddapuratalukhospital"
+    },
+    {
+        "code": "pg.sirsitalukhospital"
+    },
+    {
+        "code": "pg.joidatalukhospital"
+    },
+    {
+        "code": "pg.adagalitalukhospital"
+    },
+    {
+        "code": "pg.hagribommanahallitalukhospital"
+    },
+    {
+        "code": "pg.hospettalukhospital"
+    },
+    {
+        "code": "pg.kudilgitalukhospital"
+    },
+    {
+        "code": "pg.harpanahallitalukhospital"
+    },
+    {
+        "code": "pg.shahpurtalukahospital"
+    },
+    {
+        "code": "pg.surapurtalukshospitals"
+    }
         
       ]
     },
@@ -1401,6 +3895,7 @@
         {
           "code": "pg.chandrabandaprimaryhealthcentre"
         },
+        
         {
           "code": "pg.shakawadisubcentre"
         },
@@ -1465,11 +3960,9 @@
           "code": "pg.ganadhal"
         },
         {
-          "code": "pg.mustur"
+          "code": "pg.musturphc"
         },
-        {
-          "code": "pg.masarkal"
-        },
+        
         {
           "code": "pg.kopparsc"
         },
@@ -1680,9 +4173,7 @@
         {
           "code": "pg.neermanvi"
         },
-        {
-          "code": "pg.pamankallur"
-        },
+        
         {
           "code": "pg.sirwar"
         },
@@ -1704,12 +4195,7 @@
         {
           "code": "pg.kallur"
         },
-        {
-          "code": "pg.gunjahallisc"
-        },
-        {
-          "code": "pg.gunjahalliphc"
-        },
+        
         {
             "code": "pg.athukur"
         },
@@ -1731,15 +4217,8 @@
         {
             "code": "pg.hanumapur"
         },
-        {
-            "code": "pg.hosur"
-        },
-        {
-            "code": "pg.idapanurphc"
-        },
-        {
-          "code": "pg.idapanursc"
-        },
+        
+        
         {
             "code": "pg.jagarkal"
         },
@@ -1767,18 +4246,11 @@
         {
             "code": "pg.singanodi"
         },
-        {
-            "code": "pg.ukhanapur"
-        },
+        
         {
             "code": "pg.yedlapur"
         },
-        {
-            "code": "pg.yapaldinniphc"
-        },
-        {
-          "code": "pg.yapaldinnisc"
-        },
+        
         {
             "code": "pg.talameri"
         },
@@ -1855,7 +4327,7 @@
             "code": "pg.goladinni"
         },
         {
-            "code": "pg.hkotnekaldrroomsubcentre"
+            "code": "pg.hkotnekaldroomsubcentre"
         },
         {
             "code": "pg.hallihosur"
@@ -1876,7 +4348,7 @@
             "code": "pg.hirehangi"
         },
         {
-            "code": "pg.byagawat"
+            "code": "pg.byagawatphc"
         },
         {
             "code": "pg.balllatagi"
@@ -1890,9 +4362,7 @@
         {
             "code": "pg.mallat"
         },
-        {
-            "code": "pg.pamankallurphc"
-        },
+        
         {
             "code": "pg.pothnal"
         },
@@ -1906,10 +4376,10 @@
             "code": "pg.sadapur"
         },
         {
-            "code": "pg.sangapur"
+            "code": "pg.sangapurphc"
         },
         {
-            "code": "pg.tadkal"
+            "code": "pg.tadkalsc"
         },
         {
             "code": "pg.ramdurga24x7"
@@ -1968,9 +4438,7 @@
         {
             "code": "pg.wandli"
         },
-        {
-            "code": "pg.gabbur"
-        },
+        
         {
             "code": "pg.ganadala"
         },
@@ -1978,7 +4446,7 @@
             "code": "pg.hbudoor"
         },
         {
-            "code": "pg.masarkalsc"
+            "code": "pg.masarkal"
         },
         {
             "code": "pg.koppar"
@@ -2113,7 +4581,7 @@
           "code": "pg.echanalphc"
         },
         {
-            "code": "pg.rodalabandasc"
+            "code": "pg.rodalabanda"
         },
         {
           "code": "pg.rodalabandaphc"
@@ -2181,9 +4649,2508 @@
          {
           "code": "pg.anwari"
       },
-        {
-          "code":"pg.pothnaldrroomsubcentre"
-        }
+      {
+        "code": "pg.bagalkot"
+    },
+    {
+        "code": "pg.shirurbagalkot"
+    },
+    {
+        "code": "pg.kamatagi"
+    },
+    {
+        "code": "pg.hiresinganagutti"
+    },
+    {
+        "code": "pg.chittaragi"
+    },
+    {
+        "code": "pg.kandagall"
+    },
+    {
+        "code": "pg.togunshi"
+    },
+    {
+        "code": "pg.halakurki"
+    },
+    {
+        "code": "pg.katageri"
+    },
+    {
+        "code": "pg.kulagericross"
+    },
+    {
+        "code": "pg.mustigeri"
+    },
+    {
+        "code": "pg.belur"
+    },
+    {
+        "code": "pg.malali"
+    },
+    {
+        "code": "pg.lokapur"
+    },
+    {
+        "code": "pg.kasabajambagi"
+    },
+    {
+        "code": "pg.metagudda"
+    },
+    {
+        "code": "pg.kaladagi"
+    },
+    {
+        "code": "pg.kundaragibilagi"
+    },
+    {
+        "code": "pg.halagali"
+    },
+    {
+        "code": "pg.uttur"
+    },
+    {
+        "code": "pg.yadahalli"
+    },
+    {
+        "code": "pg.shirolmudhol"
+    },
+    {
+        "code": "pg.aihole"
+    },
+    {
+        "code": "pg.gudur"
+    },
+    {
+        "code": "pg.nagur"
+    },
+    {
+        "code": "pg.chimmad"
+    },
+    {
+        "code": "pg.centerteradal"
+    },
+    {
+        "code": "pg.rabakavi"
+    },
+    {
+        "code": "pg.navalagi"
+    },
+    {
+        "code": "pg.jamakhandi"
+    },
+    {
+        "code": "pg.konnurjamkhandi"
+    },
+    {
+        "code": "pg.gothe"
+    },
+    {
+        "code": "pg.chikkalakicross"
+    },
+    {
+        "code": "pg.linganur"
+    },
+    {
+        "code": "pg.marol"
+    },
+    {
+        "code": "pg.dhannur"
+    },
+    {
+        "code": "pg.bennurbagalkot"
+    },
+    {
+        "code": "pg.pattadkall"
+    },
+    {
+        "code": "pg.raravi"
+    },
+    {
+        "code": "pg.karur"
+    },
+    {
+        "code": "pg.talur"
+    },
+    {
+        "code": "pg.bhagewadi"
+    },
+    {
+        "code": "pg.hatcholli"
+    },
+    {
+        "code": "pg.ravihal"
+    },
+    {
+        "code": "pg.orvayi"
+    },
+    {
+        "code": "pg.mustagatti"
+    },
+    {
+        "code": "pg.siddammanhalli"
+    },
+    {
+        "code": "pg.korlagudi"
+    },
+    {
+        "code": "pg.sangankalu"
+    },
+    {
+        "code": "pg.chellagurki"
+    },
+    {
+        "code": "pg.mokagonahal"
+    },
+    {
+        "code": "pg.sindavala"
+    },
+    {
+        "code": "pg.yaragudi"
+    },
+    {
+        "code": "pg.yemmigenoor"
+    },
+    {
+        "code": "pg.ramasagar"
+    },
+    {
+        "code": "pg.devasamudra"
+    },
+    {
+        "code": "pg.kuruvalli"
+    },
+    {
+        "code": "pg.bandri"
+    },
+    {
+        "code": "pg.vittalapur"
+    },
+    {
+        "code": "pg.karikatti"
+    },
+    {
+        "code": "pg.udikeri"
+    },
+    {
+        "code": "pg.suthagatti"
+    },
+    {
+        "code": "pg.madlur"
+    },
+    {
+        "code": "pg.inchal"
+    },
+    {
+        "code": "pg.tallur"
+    },
+    {
+        "code": "pg.surebhan"
+    },
+    {
+        "code": "pg.batakuraki"
+    },
+    {
+        "code": "pg.mudakavi"
+    },
+    {
+        "code": "pg.budanur"
+    },
+    {
+        "code": "pg.chachadi"
+    },
+    {
+        "code": "pg.hosurphc"
+    },
+    {
+        "code": "pg.sangoli"
+    },
+    {
+        "code": "pg.asundi"
+    },
+    {
+        "code": "pg.mkhuballi"
+    },
+    {
+        "code": "pg.dodwad"
+    },
+    {
+        "code": "pg.hirekumbi"
+    },
+    {
+        "code": "pg.inamhongal"
+    },
+    {
+        "code": "pg.ambadgatti"
+    },
+    {
+        "code": "pg.bailurone"
+    },
+    {
+        "code": "pg.budarkatti"
+    },
+    {
+        "code": "pg.deshnoor"
+    },
+    {
+        "code": "pg.neginhal"
+    },
+    {
+        "code": "pg.yakkundione"
+    },
+    {
+        "code": "pg.hulkund"
+    },
+    {
+        "code": "pg.kadabi"
+    },
+    {
+        "code": "pg.vannur"
+    },
+    {
+        "code": "pg.hunshikatti"
+    },
+    {
+        "code": "pg.katkol"
+    },
+    {
+        "code": "pg.ramnagar"
+    },
+    {
+        "code": "pg.vadagov"
+    },
+    {
+        "code": "pg.yallur"
+    },
+    {
+        "code": "pg.kadoli"
+    },
+    {
+        "code": "pg.basapur"
+    },
+    {
+        "code": "pg.daddi"
+    },
+    {
+        "code": "pg.sankratti"
+    },
+    {
+        "code": "pg.satti"
+    },
+    {
+        "code": "pg.haliyal"
+    },
+    {
+        "code": "pg.pachapur"
+    },
+    {
+        "code": "pg.sulebhavi"
+    },
+    {
+        "code": "pg.chougalewadi/tilakwadi"
+    },
+    {
+        "code": "pg.arjunwada"
+    },
+    {
+        "code": "pg.badakundri"
+    },
+    {
+        "code": "pg.benewadi"
+    },
+    {
+        "code": "pg.nognihal"
+    },
+    {
+        "code": "pg.shindikurbetta"
+    },
+    {
+        "code": "pg.khanagaon"
+    },
+    {
+        "code": "pg.akkatangehal"
+    },
+    {
+        "code": "pg.ankalagi"
+    },
+    {
+        "code": "pg.hudali"
+    },
+    {
+        "code": "pg.kulgod"
+    },
+    {
+        "code": "pg.melavanki"
+    },
+    {
+        "code": "pg.masaguppi"
+    },
+    {
+        "code": "pg.ganebail"
+    },
+    {
+        "code": "pg.ashoknagarkhanapur"
+    },
+    {
+        "code": "pg.halasi"
+    },
+    {
+        "code": "pg.kineaye"
+    },
+    {
+        "code": "pg.muttaga"
+    },
+    {
+        "code": "pg.uchagov"
+    },
+    {
+        "code": "pg.bendigeri"
+    },
+    {
+        "code": "pg.bidi"
+    },
+    {
+        "code": "pg.parishwad"
+    },
+    {
+        "code": "pg.rkmininagar"
+    },
+    {
+        "code": "pg.isalampur"
+    },
+    {
+        "code": "pg.hullalli"
+    },
+    {
+        "code": "pg.bairanatti"
+    },
+    {
+        "code": "pg.balobala"
+    },
+    {
+        "code": "pg.betagerione"
+    },
+    {
+        "code": "pg.hallur"
+    },
+    {
+        "code": "pg.talkatnala"
+    },
+    {
+        "code": "pg.tukkanatti"
+    },
+    {
+        "code": "pg.kanagala"
+    },
+    {
+        "code": "pg.mamadapur"
+    },
+    {
+        "code": "pg.tavag"
+    },
+    {
+        "code": "pg.yamakanamaradi"
+    },
+    {
+        "code": "pg.vantamuri"
+    },
+    {
+        "code": "pg.honaga"
+    },
+    {
+        "code": "pg.ukhanapurbelagavi"
+    },
+    {
+        "code": "pg.ingali"
+    },
+    {
+        "code": "pg.shirguppi"
+    },
+    {
+        "code": "pg.yadur"
+    },
+    {
+        "code": "pg.bedakihal"
+    },
+    {
+        "code": "pg.sadhalaga"
+    },
+    {
+        "code": "pg.jainapurchikodi"
+    },
+    {
+        "code": "pg.benadi"
+    },
+    {
+        "code": "pg.karadga"
+    },
+    {
+        "code": "pg.mangur"
+    },
+    {
+        "code": "pg.ankali"
+    },
+    {
+        "code": "pg.kerur"
+    },
+    {
+        "code": "pg.nasalapur"
+    },
+    {
+        "code": "pg.soundalaga"
+    },
+    {
+        "code": "pg.bugatealuru"
+    },
+    {
+        "code": "pg.hebbalone"
+    },
+    {
+        "code": "pg.mangsoli"
+    },
+    {
+        "code": "pg.pattankudi"
+    },
+    {
+        "code": "pg.ugar"
+    },
+    {
+        "code": "pg.akkol"
+    },
+    {
+        "code": "pg.mankapur"
+    },
+    {
+        "code": "pg.galatga"
+    },
+    {
+        "code": "pg.harugeri"
+    },
+    {
+        "code": "pg.hidakal"
+    },
+    {
+        "code": "pg.kakamari"
+    },
+    {
+        "code": "pg.kookatunoor"
+    },
+    {
+        "code": "pg.moole"
+    },
+    {
+        "code": "pg.chinchalione"
+    },
+    {
+        "code": "pg.byakud"
+    },
+    {
+        "code": "pg.ananthpur"
+    },
+    {
+        "code": "pg.madhabhavi"
+    },
+    {
+        "code": "pg.morabraibag"
+    },
+    {
+        "code": "pg.aingli"
+    },
+    {
+        "code": "pg.thelsanga"
+    },
+    {
+        "code": "pg.ainapurathani"
+    },
+    {
+        "code": "pg.kargove"
+    },
+    {
+        "code": "pg.khadakalath"
+    },
+    {
+        "code": "pg.nirna"
+    },
+    {
+        "code": "pg.changlera"
+    },
+    {
+        "code": "pg.bhemalkheda"
+    },
+    {
+        "code": "pg.hudgi"
+    },
+    {
+        "code": "pg.talmadgi"
+    },
+    {
+        "code": "pg.kodambal"
+    },
+    {
+        "code": "pg.kankatta"
+    },
+    {
+        "code": "pg.ghatboral"
+    },
+    {
+        "code": "pg.dubalagundi"
+    },
+    {
+        "code": "pg.hallikhedk"
+    },
+    {
+        "code": "pg.mudbi"
+    },
+    {
+        "code": "pg.harkood"
+    },
+    {
+        "code": "pg.kalhora"
+    },
+    {
+        "code": "pg.kohinoor"
+    },
+    {
+        "code": "pg.manthal"
+    },
+    {
+        "code": "pg.halhalli"
+    },
+    {
+        "code": "pg.kanaji"
+    },
+    {
+        "code": "pg.ranjolkheni"
+    },
+    {
+        "code": "pg.manhalli"
+    },
+    {
+        "code": "pg.bagdal"
+    },
+    {
+        "code": "pg.kamthana"
+    },
+    {
+        "code": "pg.chillargi"
+    },
+    {
+        "code": "pg.yarnalli"
+    },
+    {
+        "code": "pg.ghodampalli"
+    },
+    {
+        "code": "pg.beeri"
+    },
+    {
+        "code": "pg.thanakushnoor"
+    },
+    {
+        "code": "pg.torna"
+    },
+    {
+        "code": "pg.halbarga"
+    },
+    {
+        "code": "pg.bhatambra"
+    },
+    {
+        "code": "pg.ujalamba"
+    },
+    {
+        "code": "pg.dawargoan"
+    },
+    {
+        "code": "pg.warawatti"
+    },
+    {
+        "code": "pg.mehakar"
+    },
+    {
+        "code": "pg.dongapur"
+    },
+    {
+        "code": "pg.ghotala"
+    },
+    {
+        "code": "pg.ladwanti"
+    },
+    {
+        "code": "pg.bidricolony"
+    },
+    {
+        "code": "pg.belura"
+    },
+    {
+        "code": "pg.yalagodu"
+    },
+    {
+        "code": "pg.dshalli"
+    },
+    {
+        "code": "pg.muddapura"
+    },
+    {
+        "code": "pg.kalgere"
+    },
+    {
+        "code": "pg.lakshmisagaravijapura"
+    },
+    {
+        "code": "pg.kogunde"
+    },
+    {
+        "code": "pg.kasavarahatti"
+    },
+    {
+        "code": "pg.haikal"
+    },
+    {
+        "code": "pg.belagatta"
+    },
+    {
+        "code": "pg.hireguntunur"
+    },
+    {
+        "code": "pg.cghalli"
+    },
+    {
+        "code": "pg.grhalli"
+    },
+    {
+        "code": "pg.imangala"
+    },
+    {
+        "code": "pg.bharampur"
+    },
+    {
+        "code": "pg.gulilalu"
+    },
+    {
+        "code": "pg.avkottige"
+    },
+    {
+        "code": "pg.pandrahalli"
+    },
+    {
+        "code": "pg.godabanahal"
+    },
+    {
+        "code": "pg.vvpura"
+    },
+    {
+        "code": "pg.mallappanahalli"
+    },
+    {
+        "code": "pg.rangenahalli"
+    },
+    {
+        "code": "pg.huvinahole"
+    },
+    {
+        "code": "pg.hosayalanadu"
+    },
+    {
+        "code": "pg.hariyabbe"
+    },
+    {
+        "code": "pg.abbinahole"
+    },
+    {
+        "code": "pg.beturpalya"
+    },
+    {
+        "code": "pg.khandenahalli"
+    },
+    {
+        "code": "pg.adivala"
+    },
+    {
+        "code": "pg.jghalli"
+    },
+    {
+        "code": "pg.ranganathapura"
+    },
+    {
+        "code": "pg.doddachhelluru"
+    },
+    {
+        "code": "pg.goudihalli"
+    },
+    {
+        "code": "pg.gunderi"
+    },
+    {
+        "code": "pg.nghalli"
+    },
+    {
+        "code": "pg.jankal"
+    },
+    {
+        "code": "pg.talya"
+    },
+    {
+        "code": "pg.chitrahalli"
+    },
+    {
+        "code": "pg.malladihalli"
+    },
+    {
+        "code": "pg.shivapura"
+    },
+    {
+        "code": "pg.chikkajajur"
+    },
+    {
+        "code": "pg.muttagadur"
+    },
+    {
+        "code": "pg.tuppadahalli"
+    },
+    {
+        "code": "pg.thalikatte"
+    },
+    {
+        "code": "pg.ramagiri"
+    },
+    {
+        "code": "pg.devigere"
+    },
+    {
+        "code": "pg.bagur"
+    },
+    {
+        "code": "pg.sanehalli"
+    },
+    {
+        "code": "pg.madadakere"
+    },
+    {
+        "code": "pg.mallappanahally"
+    },
+    {
+        "code": "pg.ballalasamudra"
+    },
+    {
+        "code": "pg.bgkere"
+    },
+    {
+        "code": "pg.chikkobanahalli"
+    },
+    {
+        "code": "pg.kondlahalli"
+    },
+    {
+        "code": "pg.ashokasiddapura"
+    },
+    {
+        "code": "pg.hirekerehalli"
+    },
+    {
+        "code": "pg.nagasamudra"
+    },
+    {
+        "code": "pg.mustlagummi"
+    },
+    {
+        "code": "pg.ramjogihalli"
+    },
+    {
+        "code": "pg.nelagetanahatti"
+    },
+    {
+        "code": "pg.thalluku"
+    },
+    {
+        "code": "pg.kalamarahalli"
+    },
+    {
+        "code": "pg.siddeswaranadurga"
+    },
+    {
+        "code": "pg.yalladakere"
+    },
+    {
+        "code": "pg.goparahalli"
+    },
+    {
+        "code": "pg.tnkote"
+    },
+    {
+        "code": "pg.jajur"
+    },
+    {
+        "code": "pg.meerasabihalli"
+    },
+    {
+        "code": "pg.chennammanagathihalli"
+    },
+    {
+        "code": "pg.mathodu"
+    },
+    {
+        "code": "pg.gnkere"
+    },
+    {
+        "code": "pg.doddularthi"
+    },
+    {
+        "code": "pg.hdpura"
+    },
+    {
+        "code": "pg.bommigatti"
+    },
+    {
+        "code": "pg.mishrikoti"
+    },
+    {
+        "code": "pg.ganjigatti"
+    },
+    {
+        "code": "pg.anandnagar"
+    },
+    {
+        "code": "pg.ayodhyanagar"
+    },
+    {
+        "code": "pg.heggeri"
+    },
+    {
+        "code": "pg.alnavar"
+    },
+    {
+        "code": "pg.bharalotri"
+    },
+    {
+        "code": "pg.hdmcmaternityhospital"
+    },
+    {
+        "code": "pg.koliwad"
+    },
+    {
+        "code": "pg.ingalahalli"
+    },
+    {
+        "code": "pg.belahar"
+    },
+    {
+        "code": "pg.morabdharwad"
+    },
+    {
+        "code": "pg.javoor"
+    },
+    {
+        "code": "pg.shalwadi"
+    },
+    {
+        "code": "pg.doddaker"
+    },
+    {
+        "code": "pg.gandhiwad"
+    },
+    {
+        "code": "pg.ganeshpethhospital"
+    },
+    {
+        "code": "pg.yaliwal"
+    },
+    {
+        "code": "pg.noolvi"
+    },
+    {
+        "code": "pg.adhargunchi"
+    },
+    {
+        "code": "pg.yaraguppi"
+    },
+    {
+        "code": "pg.baradawad"
+    },
+    {
+        "code": "pg.ingalagi"
+    },
+    {
+        "code": "pg.sadarsopa"
+    },
+    {
+        "code": "pg.purohitnagar"
+    },
+    {
+        "code": "pg.ramalingeshwarnagar"
+    },
+    {
+        "code": "pg.sangmeshwar"
+    },
+    {
+        "code": "pg.saunshi"
+    },
+    {
+        "code": "pg.gudageri"
+    },
+    {
+        "code": "pg.madaramaddi"
+    },
+    {
+        "code": "pg.alagawadi"
+    },
+    {
+        "code": "pg.yavagal"
+    },
+    {
+        "code": "pg.kurtakoti"
+    },
+    {
+        "code": "pg.belavanki"
+    },
+    {
+        "code": "pg.bellatti"
+    },
+    {
+        "code": "pg.hebbal"
+    },
+    {
+        "code": "pg.balehosur"
+    },
+    {
+        "code": "pg.yalavatti"
+    },
+    {
+        "code": "pg.shigli"
+    },
+    {
+        "code": "pg.suranagi"
+    },
+    {
+        "code": "pg.jagapur"
+    },
+    {
+        "code": "pg.chikkanaragund"
+    },
+    {
+        "code": "pg.shirolnaragund"
+    },
+    {
+        "code": "pg.chinchali"
+    },
+    {
+        "code": "pg.mulagund"
+    },
+    {
+        "code": "pg.kanavi"
+    },
+    {
+        "code": "pg.sudi"
+    },
+    {
+        "code": "pg.mushigeri"
+    },
+    {
+        "code": "pg.shantageri"
+    },
+    {
+        "code": "pg.nagavi"
+    },
+    {
+        "code": "pg.harti"
+    },
+    {
+        "code": "pg.hulakoti"
+    },
+    {
+        "code": "pg.dambala"
+    },
+    {
+        "code": "pg.hirewadatti"
+    },
+    {
+        "code": "pg.hammagi"
+    },
+    {
+        "code": "pg.lakkundi"
+    },
+    {
+        "code": "pg.jantlishirur"
+    },
+    {
+        "code": "pg.kadampur"
+    },
+    {
+        "code": "pg.abbigeri"
+    },
+    {
+        "code": "pg.nidagundi"
+    },
+    {
+        "code": "pg.hombala"
+    },
+    {
+        "code": "pg.kadadi"
+    },
+    {
+        "code": "pg.holealur"
+    },
+    {
+        "code": "pg.savadi"
+    },
+    {
+        "code": "pg.devihosur"
+    },
+    {
+        "code": "pg.devagiri"
+    },
+    {
+        "code": "pg.karjagi"
+    },
+    {
+        "code": "pg.konankeri"
+    },
+    {
+        "code": "pg.chandapur"
+    },
+    {
+        "code": "pg.tadas"
+    },
+    {
+        "code": "pg.araleshwara"
+    },
+    {
+        "code": "pg.agadi"
+    },
+    {
+        "code": "pg.adur"
+    },
+    {
+        "code": "pg.bommanahalli"
+    },
+    {
+        "code": "pg.baichavalli"
+    },
+    {
+        "code": "pg.kopparasikoppa"
+    },
+    {
+        "code": "pg.hirebhendigeri"
+    },
+    {
+        "code": "pg.hulagur"
+    },
+    {
+        "code": "pg.karadagi"
+    },
+    {
+        "code": "pg.yalavagi"
+    },
+    {
+        "code": "pg.kadakol"
+    },
+    {
+        "code": "pg.kalasur"
+    },
+    {
+        "code": "pg.hosaritti"
+    },
+    {
+        "code": "pg.handiganur"
+    },
+    {
+        "code": "pg.havanur"
+    },
+    {
+        "code": "pg.shirgoda"
+    },
+    {
+        "code": "pg.chikkanshihosur"
+    },
+    {
+        "code": "pg.shadaguppi"
+    },
+    {
+        "code": "pg.sheshagiri"
+    },
+    {
+        "code": "pg.tilavalli"
+    },
+    {
+        "code": "pg.chikkabasur"
+    },
+    {
+        "code": "pg.itagiranebennur"
+    },
+    {
+        "code": "pg.kajjari"
+    },
+    {
+        "code": "pg.makanur"
+    },
+    {
+        "code": "pg.halageri"
+    },
+    {
+        "code": "pg.tavermellihalli"
+    },
+    {
+        "code": "pg.chalageri"
+    },
+    {
+        "code": "pg.kadaramandalagi"
+    },
+    {
+        "code": "pg.shankripura"
+    },
+    {
+        "code": "pg.kurubgonda"
+    },
+    {
+        "code": "pg.hansbhavi"
+    },
+    {
+        "code": "pg.chikkerur"
+    },
+    {
+        "code": "pg.madluru"
+    },
+    {
+        "code": "pg.halur"
+    },
+    {
+        "code": "pg.tadakanahalli"
+    },
+    {
+        "code": "pg.medur"
+    },
+    {
+        "code": "pg.belgalpeth"
+    },
+    {
+        "code": "pg.irani"
+    },
+    {
+        "code": "pg.mevundi"
+    },
+    {
+        "code": "pg.negaluru"
+    },
+    {
+        "code": "pg.aladagere"
+    },
+    {
+        "code": "pg.kadur"
+    },
+    {
+        "code": "pg.aremallapur"
+    },
+    {
+        "code": "pg.haranagiri"
+    },
+    {
+        "code": "pg.devaragudda"
+    },
+    {
+        "code": "pg.honnatti"
+    },
+    {
+        "code": "pg.naregal"
+    },
+    {
+        "code": "pg.kaginele"
+    },
+    {
+        "code": "pg.sunakalbidari"
+    },
+    {
+        "code": "pg.kudapali"
+    },
+    {
+        "code": "pg.kuppelur"
+    },
+    {
+        "code": "pg.tumminakatti"
+    },
+    {
+        "code": "pg.koda"
+    },
+    {
+        "code": "pg.attigeri"
+    },
+    {
+        "code": "pg.dundashi"
+    },
+    {
+        "code": "pg.kusunuru"
+    },
+    {
+        "code": "pg.awradb"
+    },
+    {
+        "code": "pg.kallahangaraga"
+    },
+    {
+        "code": "pg.mahagaon"
+    },
+    {
+        "code": "pg.kamalapur"
+    },
+    {
+        "code": "pg.sonth"
+    },
+    {
+        "code": "pg.dongarigoan"
+    },
+    {
+        "code": "pg.shriinivasasaradagi"
+    },
+    {
+        "code": "pg.harasooru"
+    },
+    {
+        "code": "pg.nandorb"
+    },
+    {
+        "code": "pg.farhatabad"
+    },
+    {
+        "code": "pg.hiresavalgi"
+    },
+    {
+        "code": "pg.kadaganchi"
+    },
+    {
+        "code": "pg.kurakunta"
+    },
+    {
+        "code": "pg.khanderayanapalli"
+    },
+    {
+        "code": "pg.kanagadda"
+    },
+    {
+        "code": "pg.itkal"
+    },
+    {
+        "code": "pg.madana"
+    },
+    {
+        "code": "pg.kolkunda"
+    },
+    {
+        "code": "pg.kodla"
+    },
+    {
+        "code": "pg.yadaga"
+    },
+    {
+        "code": "pg.nidgunda"
+    },
+    {
+        "code": "pg.salebeeranalli"
+    },
+    {
+        "code": "pg.chandankera"
+    },
+    {
+        "code": "pg.ainapurchincholi"
+    },
+    {
+        "code": "pg.rudanor"
+    },
+    {
+        "code": "pg.miriyana"
+    },
+    {
+        "code": "pg.sulepeth"
+    },
+    {
+        "code": "pg.mogha"
+    },
+    {
+        "code": "pg.koodli"
+    },
+    {
+        "code": "pg.ratkal"
+    },
+    {
+        "code": "pg.mudabula"
+    },
+    {
+        "code": "pg.korwar"
+    },
+    {
+        "code": "pg.kallipparga"
+    },
+    {
+        "code": "pg.arankal"
+    },
+    {
+        "code": "pg.mangalgi"
+    },
+    {
+        "code": "pg.tengali"
+    },
+    {
+        "code": "pg.dandothi"
+    },
+    {
+        "code": "pg.diggoan"
+    },
+    {
+        "code": "pg.alloli"
+    },
+    {
+        "code": "pg.kollur"
+    },
+    {
+        "code": "pg.nalwar"
+    },
+    {
+        "code": "pg.rawor"
+    },
+    {
+        "code": "pg.naribol"
+    },
+    {
+        "code": "pg.biryalb"
+    },
+    {
+        "code": "pg.andola"
+    },
+    {
+        "code": "pg.ganwar"
+    },
+    {
+        "code": "pg.ijeri"
+    },
+    {
+        "code": "pg.wadagera"
+    },
+    {
+        "code": "pg.jeretagi"
+    },
+    {
+        "code": "pg.malli"
+    },
+    {
+        "code": "pg.aralagundagi"
+    },
+    {
+        "code": "pg.mandeevala"
+    },
+    {
+        "code": "pg.koodi"
+    },
+    {
+        "code": "pg.ankalaga"
+    },
+    {
+        "code": "pg.gobbur"
+    },
+    {
+        "code": "pg.badadal"
+    },
+    {
+        "code": "pg.atanoor"
+    },
+    {
+        "code": "pg.revoor"
+    },
+    {
+        "code": "pg.desaikallur"
+    },
+    {
+        "code": "pg.karajagi"
+    },
+    {
+        "code": "pg.udachan"
+    },
+    {
+        "code": "pg.mashal"
+    },
+    {
+        "code": "pg.mannur"
+    },
+    {
+        "code": "pg.yalasangi"
+    },
+    {
+        "code": "pg.madiyal"
+    },
+    {
+        "code": "pg.golab"
+    },
+    {
+        "code": "pg.jidga"
+    },
+    {
+        "code": "pg.dhangapur"
+    },
+    {
+        "code": "pg.bhusnoor"
+    },
+    {
+        "code": "pg.sarsamba"
+    },
+    {
+        "code": "pg.padasawalgi"
+    },
+    {
+        "code": "pg.hirolli"
+    },
+    {
+        "code": "pg.vksalagar"
+    },
+    {
+        "code": "pg.tadkalphc"
+    },
+    {
+        "code": "pg.belamagi"
+    },
+    {
+        "code": "pg.ambalga"
+    },
+    {
+        "code": "pg.honakirangi"
+    },
+    {
+        "code": "pg.bannikoppa"
+    },
+    {
+        "code": "pg.itagikukanur"
+    },
+    {
+        "code": "pg.talakal"
+    },
+    {
+        "code": "pg.kavalur"
+    },
+    {
+        "code": "pg.alawandi"
+    },
+    {
+        "code": "pg.betageri"
+    },
+    {
+        "code": "pg.bhagyanagara"
+    },
+    {
+        "code": "pg.gondabal"
+    },
+    {
+        "code": "pg.ginagera"
+    },
+    {
+        "code": "pg.benakal"
+    },
+    {
+        "code": "pg.shirurkukanur"
+    },
+    {
+        "code": "pg.hitnal"
+    },
+    {
+        "code": "pg.hulagi"
+    },
+    {
+        "code": "pg.hosabandiharalapur"
+    },
+    {
+        "code": "pg.sanganal"
+    },
+    {
+        "code": "pg.mudhol"
+    },
+    {
+        "code": "pg.vajarabandi"
+    },
+    {
+        "code": "pg.indaragi"
+    },
+    {
+        "code": "pg.irkalgada"
+    },
+    {
+        "code": "pg.kukanapalli"
+    },
+    {
+        "code": "pg.bevur"
+    },
+    {
+        "code": "pg.hirebommanal"
+    },
+    {
+        "code": "pg.gunnal"
+    },
+    {
+        "code": "pg.budagumpa"
+    },
+    {
+        "code": "pg.bennurkaratagi"
+    },
+    {
+        "code": "pg.siddapur"
+    },
+    {
+        "code": "pg.muslapur"
+    },
+    {
+        "code": "pg.navali"
+    },
+    {
+        "code": "pg.musturphc"
+    },
+    {
+        "code": "pg.balotagi"
+    },
+    {
+        "code": "pg.hiregonnagara"
+    },
+    {
+        "code": "pg.malagitti"
+    },
+    {
+        "code": "pg.hulgera"
+    },
+    {
+        "code": "pg.hanumasagara"
+    },
+    {
+        "code": "pg.chalagera"
+    },
+    {
+        "code": "pg.hosakeradaggi"
+    },
+    {
+        "code": "pg.sangapurphc"
+    },
+    {
+        "code": "pg.anegundi"
+    },
+    {
+        "code": "pg.hiremannapur"
+    },
+    {
+        "code": "pg.mudenur"
+    },
+    {
+        "code": "pg.dotihal"
+    },
+    {
+        "code": "pg.gandadal"
+    },
+    {
+        "code": "pg.katagera"
+    },
+    {
+        "code": "pg.devbhag"
+    },
+    {
+        "code": "pg.ulga"
+    },
+    {
+        "code": "pg.angadi"
+    },
+    {
+        "code": "pg.gersoppa"
+    },
+    {
+        "code": "pg.hosad"
+    },
+    {
+        "code": "pg.kharva"
+    },
+    {
+        "code": "pg.belake"
+    },
+    {
+        "code": "pg.konar"
+    },
+    {
+        "code": "pg.manki"
+    },
+    {
+        "code": "pg.devalmakki"
+    },
+    {
+        "code": "pg.siddar"
+    },
+    {
+        "code": "pg.karwar"
+    },
+    {
+        "code": "pg.mudga"
+    },
+    {
+        "code": "pg.todur"
+    },
+    {
+        "code": "pg.amdalli"
+    },
+    {
+        "code": "pg.haldipur"
+    },
+    {
+        "code": "pg.kadtoka"
+    },
+    {
+        "code": "pg.samsi"
+    },
+    {
+        "code": "pg.hillur"
+    },
+    {
+        "code": "pg.gokarna"
+    },
+    {
+        "code": "pg.kodkani"
+    },
+    {
+        "code": "pg.santeguli"
+    },
+    {
+        "code": "pg.muroor"
+    },
+    {
+        "code": "pg.salkod"
+    },
+    {
+        "code": "pg.hattikeri"
+    },
+    {
+        "code": "pg.harwad"
+    },
+    {
+        "code": "pg.chendiya"
+    },
+    {
+        "code": "pg.balkur"
+    },
+    {
+        "code": "pg.murdeshwar"
+    },
+    {
+        "code": "pg.bailur"
+    },
+    {
+        "code": "pg.katgal"
+    },
+    {
+        "code": "pg.kagal"
+    },
+    {
+        "code": "pg.hiregutti"
+    },
+    {
+        "code": "pg.chittakula"
+    },
+    {
+        "code": "pg.halaga"
+    },
+    {
+        "code": "pg.kadra"
+    },
+    {
+        "code": "pg.belse"
+    },
+    {
+        "code": "pg.bankikodla"
+    },
+    {
+        "code": "pg.hankon"
+    },
+    {
+        "code": "pg.nandolli"
+    },
+    {
+        "code": "pg.malavalli"
+    },
+    {
+        "code": "pg.kalache"
+    },
+    {
+        "code": "pg.dandeli"
+    },
+    {
+        "code": "pg.manchikeri"
+    },
+    {
+        "code": "pg.kundaragiyallapur"
+    },
+    {
+        "code": "pg.arasinageri"
+    },
+    {
+        "code": "pg.dasanakoppa"
+    },
+    {
+        "code": "pg.bislakoppa"
+    },
+    {
+        "code": "pg.sambrani"
+    },
+    {
+        "code": "pg.murkawad"
+    },
+    {
+        "code": "pg.teragaon"
+    },
+    {
+        "code": "pg.kakkalli"
+    },
+    {
+        "code": "pg.mensi"
+    },
+    {
+        "code": "pg.hulekal"
+    },
+    {
+        "code": "pg.banavasi"
+    },
+    {
+        "code": "pg.dehalli"
+    },
+    {
+        "code": "pg.sugavi"
+    },
+    {
+        "code": "pg.belavatigi"
+    },
+    {
+        "code": "pg.mangalawada"
+    },
+    {
+        "code": "pg.bhagavati"
+    },
+    {
+        "code": "pg.kiravatti"
+    },
+    {
+        "code": "pg.kyadagi"
+    },
+    {
+        "code": "pg.hegadekatte"
+    },
+    {
+        "code": "pg.korlakai"
+    },
+    {
+        "code": "pg.kolsirsi"
+    },
+    {
+        "code": "pg.herur"
+    },
+    {
+        "code": "pg.kansur"
+    },
+    {
+        "code": "pg.revankatta"
+    },
+    {
+        "code": "pg.nagatibasapura"
+    },
+    {
+        "code": "pg.hirehadagali"
+    },
+    {
+        "code": "pg.kantebennur"
+    },
+    {
+        "code": "pg.nandibevoor"
+    },
+    {
+        "code": "pg.kamalapura"
+    },
+    {
+        "code": "pg.malpangudi"
+    },
+    {
+        "code": "pg.chittawadgi"
+    },
+    {
+        "code": "pg.mariyammanahalli"
+    },
+    {
+        "code": "pg.bennikallu"
+    },
+    {
+        "code": "pg.magimavinahalli"
+    },
+    {
+        "code": "pg.hansi"
+    },
+    {
+        "code": "pg.thambrahalli"
+    },
+    {
+        "code": "pg.bachigondanhalli"
+    },
+    {
+        "code": "pg.sogi"
+    },
+    {
+        "code": "pg.uttangi"
+    },
+    {
+        "code": "pg.holagundi"
+    },
+    {
+        "code": "pg.kogali"
+    },
+    {
+        "code": "pg.alabur"
+    },
+    {
+        "code": "pg.moregere"
+    },
+    {
+        "code": "pg.hakkandi"
+    },
+    {
+        "code": "pg.kayyanahalli"
+    },
+    {
+        "code": "pg.magala"
+    },
+    {
+        "code": "pg.thimmalapura"
+    },
+    {
+        "code": "pg.chikkajogihalli"
+    },
+    {
+        "code": "pg.bellighatta"
+    },
+    {
+        "code": "pg.thoolahalli"
+    },
+    {
+        "code": "pg.alur"
+    },
+    {
+        "code": "pg.hosahalli"
+    },
+    {
+        "code": "pg.gundagathi"
+    },
+    {
+        "code": "pg.harakanalu"
+    },
+    {
+        "code": "pg.kanchikere"
+    },
+    {
+        "code": "pg.bennihalli"
+    },
+    {
+        "code": "pg.chigateri"
+    },
+    {
+        "code": "pg.mathihalli"
+    },
+    {
+        "code": "pg.kamathhalli"
+    },
+    {
+        "code": "pg.punabagatta"
+    },
+    {
+        "code": "pg.uchangidura"
+    },
+    {
+        "code": "pg.alagilavada"
+    },
+    {
+        "code": "pg.halavaglu"
+    },
+    {
+        "code": "pg.madihalli"
+    },
+    {
+        "code": "pg.darga"
+    },
+    {
+        "code": "pg.shantinagar"
+    },
+    {
+        "code": "pg.umaraj"
+    },
+    {
+        "code": "pg.honaganhalli"
+    },
+    {
+        "code": "pg.ronihal"
+    },
+    {
+        "code": "pg.mulawad"
+    },
+    {
+        "code": "pg.kudagi"
+    },
+    {
+        "code": "pg.vandal"
+    },
+    {
+        "code": "pg.telagi"
+    },
+    {
+        "code": "pg.golasangi"
+    },
+    {
+        "code": "pg.huvinhipparagi"
+    },
+    {
+        "code": "pg.kudarisalawadagi"
+    },
+    {
+        "code": "pg.wadawadagi"
+    },
+    {
+        "code": "pg.inacagalnew"
+    },
+    {
+        "code": "pg.bantanur"
+    },
+    {
+        "code": "pg.kariganur"
+    },
+    {
+        "code": "pg.konnurmuddebihal"
+    },
+    {
+        "code": "pg.tamdaddi"
+    },
+    {
+        "code": "pg.dhavalagi"
+    },
+    {
+        "code": "pg.sasanur"
+    },
+    {
+        "code": "pg.yalawar"
+    },
+    {
+        "code": "pg.korawardr"
+    },
+    {
+        "code": "pg.askidr"
+    },
+    {
+        "code": "pg.ukkali"
+    },
+    {
+        "code": "pg.honnutagi"
+    },
+    {
+        "code": "pg.mamdapura"
+    },
+    {
+        "code": "pg.yakkundi"
+    },
+    {
+        "code": "pg.jainapurvijayapura"
+    },
+    {
+        "code": "pg.kanamadi"
+    },
+    {
+        "code": "pg.inchageri"
+    },
+    {
+        "code": "pg.jigivanagi"
+    },
+    {
+        "code": "pg.yogapur"
+    },
+    {
+        "code": "pg.nagatana"
+    },
+    {
+        "code": "pg.atharga"
+    },
+    {
+        "code": "pg.tamba"
+    },
+    {
+        "code": "pg.mulasavalagi"
+    },
+    {
+        "code": "pg.shivangi"
+    },
+    {
+        "code": "pg.agarakhed"
+    },
+    {
+        "code": "pg.lachyan"
+    },
+    {
+        "code": "pg.chikbevanur"
+    },
+    {
+        "code": "pg.chandakavatedr"
+    },
+    {
+        "code": "pg.malaghan"
+    },
+    {
+        "code": "pg.nagavibk"
+    },
+    {
+        "code": "pg.nandaragi"
+    },
+    {
+        "code": "pg.zalaki"
+    },
+    {
+        "code": "pg.golageri"
+    },
+    {
+        "code": "pg.yankanchi"
+    },
+    {
+        "code": "pg.halasangi"
+    },
+    {
+        "code": "pg.horti"
+    },
+    {
+        "code": "pg.baradol"
+    },
+    {
+        "code": "pg.khakandaki"
+    },
+    {
+        "code": "pg.lonibk"
+    },
+    {
+        "code": "pg.gogi"
+    },
+    {
+        "code": "pg.vanadurga"
+    },
+    {
+        "code": "pg.shirwal"
+    },
+    {
+        "code": "pg.hattigudur"
+    },
+    {
+        "code": "pg.hayyalb"
+    },
+    {
+        "code": "pg.bendebembali"
+    },
+    {
+        "code": "pg.chatnalli"
+    },
+    {
+        "code": "pg.tadibidi"
+    },
+    {
+        "code": "pg.kurkunda"
+    },
+    {
+        "code": "pg.yalagi"
+    },
+    {
+        "code": "pg.naganur"
+    },
+    {
+        "code": "pg.chamanal"
+    },
+    {
+        "code": "pg.guttibasaveshwar"
+    },
+    {
+        "code": "pg.devargonal"
+    },
+    {
+        "code": "pg.shrinivanpura"
+    },
+    {
+        "code": "pg.hasanapura"
+    },
+    {
+        "code": "pg.hemanoor"
+    },
+    {
+        "code": "pg.kalladevnahalli"
+    },
+    {
+        "code": "pg.balichakra"
+    },
+    {
+        "code": "pg.malahar"
+    },
+    {
+        "code": "pg.kadechur"
+    },
+    {
+        "code": "pg.mhadwar"
+    },
+    {
+        "code": "pg.konkal"
+    },
+    {
+        "code": "pg.azalapur"
+    },
+    {
+        "code": "pg.kandakur"
+    },
+    {
+        "code": "pg.gajarkot"
+    },
+    {
+        "code": "pg.kotagera"
+    },
+    {
+        "code": "pg.pethammapur"
+    },
+    {
+        "code": "pg.honagera"
+    },
+    {
+        "code": "pg.yaragola"
+    },
+    {
+        "code": "pg.badamitalukhospital"
+    },
+    {
+        "code": "pg.bilagitalukhospital"
+    },
+    {
+        "code": "pg.hunagundtalukhospital"
+    },
+    {
+        "code": "pg.jamkhanditalukhospital"
+    },
+    {
+        "code": "pg.mudholtalukhospital"
+    },
+    {
+        "code": "pg.sandurtalukhospital"
+    },
+    {
+        "code": "pg.siragppatalukhospital"
+    },
+    {
+        "code": "pg.devanahallitalukhospital"
+    },
+    {
+        "code": "pg.hoskotetalukhospital"
+    },
+    {
+        "code": "pg.nelamangalatalukhospital"
+    },
+    {
+        "code": "pg.anekaltalukhospital"
+    },
+    {
+        "code": "pg.bangalorenorthtalukhospital"
+    },
+    {
+        "code": "pg.athanitalukhospital"
+    },
+    {
+        "code": "pg.bailhongaltalukhospital"
+    },
+    {
+        "code": "pg.chikoditalukhospital"
+    },
+    {
+        "code": "pg.gokaktalukhospital"
+    },
+    {
+        "code": "pg.hukkeritalukhospital"
+    },
+    {
+        "code": "pg.khanapurtalukhospital"
+    },
+    {
+        "code": "pg.raibagtalukhospital"
+    },
+    {
+        "code": "pg.ramdurgtalukhospital"
+    },
+    {
+        "code": "pg.saundattitalukhospital"
+    },
+    {
+        "code": "pg.auradtalukhospital"
+    },
+    {
+        "code": "pg.bhalkitalukhospital"
+    },
+    {
+        "code": "pg.kolegalatalukahospital"
+    },
+    {
+        "code": "pg.yelandurtalukahospital"
+    },
+    {
+        "code": "pg.bagepallitalukhospital"
+    },
+    {
+        "code": "pg.chintamanitalukhospital"
+    },
+    {
+        "code": "pg.gouribidanurtalukhospital"
+    },
+    {
+        "code": "pg.kadurtalukahospital"
+    },
+    {
+        "code": "pg.koppatalukahospital"
+    },
+    {
+        "code": "pg.mudigeretalukahospitalhospital"
+    },
+    {
+        "code": "pg.narasimharajapuratalukahospital"
+    },
+    {
+        "code": "pg.sringeritalukahospital"
+    },
+    {
+        "code": "pg.tarikeretalukahospital"
+    },
+    {
+        "code": "pg.challkeretalukhospital"
+    },
+    {
+        "code": "pg.hiriyurtalukhospital"
+    },
+    {
+        "code": "pg.holalkeretalukhospital"
+    },
+    {
+        "code": "pg.hosadurgatalukhospital"
+    },
+    {
+        "code": "pg.molakalmurutalukhospital"
+    },
+    {
+        "code": "pg.sulyatalukahospital"
+    },
+    {
+        "code": "pg.channagiritalukhospital"
+    },
+    {
+        "code": "pg.hariharatalukhospital"
+    },
+    {
+        "code": "pg.honnaltalukhospital"
+    },
+    {
+        "code": "pg.jaglurtalukhospital"
+    },
+    {
+        "code": "pg.kalghatagitalukhospital"
+    },
+    {
+        "code": "pg.navalgundtalukhospital"
+    },
+    {
+        "code": "pg.nargundtalukhospital"
+    },
+    {
+        "code": "pg.alurtalukahospital"
+    },
+    {
+        "code": "pg.arasikeretalukahospital"
+    },
+    {
+        "code": "pg.belurtalukahospital"
+    },
+    {
+        "code": "pg.channarayapatnatalukahospital"
+    },
+    {
+        "code": "pg.holenarasipurtalukahospital"
+    },
+    {
+        "code": "pg.sakaleshpurtalukahospital"
+    },
+    {
+        "code": "pg.byadgitalukhospital"
+    },
+    {
+        "code": "pg.hangaltalukhospital"
+    },
+    {
+        "code": "pg.hirekerurtalukhospital"
+    },
+    {
+        "code": "pg.savanurtalukhospital"
+    },
+    {
+        "code": "pg.shiggaontalukhospital"
+    },
+    {
+        "code": "pg.alandtalukhospital"
+    },
+    {
+        "code": "pg.chitapurtalukhospital"
+    },
+    {
+        "code": "pg.jewargitalukhospital"
+    },
+    {
+        "code": "pg.somvarpettalukahospital"
+    },
+    {
+        "code": "pg.virajpettalukahospital"
+    },
+    {
+        "code": "pg.kgfwomenandchildrentaluklevelhospital"
+    },
+    {
+        "code": "pg.bangarpettalukhospital"
+    },
+    {
+        "code": "pg.malurtalukhospital"
+    },
+    {
+        "code": "pg.mulbagaltalukhospital"
+    },
+    {
+        "code": "pg.srinivasapuratalukhospital"
+    },
+    {
+        "code": "pg.gangawathitalukahospital"
+    },
+    {
+        "code": "pg.kushtagitalukahospital"
+    },
+    {
+        "code": "pg.yelburgatalukahospital"
+    },
+    {
+        "code": "pg.krishnarajpettalukhospital"
+    },
+    {
+        "code": "pg.maddurtalukhospital"
+    },
+    {
+        "code": "pg.malavallitalukhospital"
+    },
+    {
+        "code": "pg.nagamangalatalukhospital"
+    },
+    {
+        "code": "pg.pandavapuratalukhospital"
+    },
+    {
+        "code": "pg.srirangapatnatalukhospital"
+    },
+    {
+        "code": "pg.heggadadevankotetalukahospital"
+    },
+    {
+        "code": "pg.hunsurtalukhospital"
+    },
+    {
+        "code": "pg.krishnarajanagaratalukahospital"
+    },
+    {
+        "code": "pg.nanjangudtalukhospital"
+    },
+    {
+        "code": "pg.periyapatnatalukhospital"
+    },
+    {
+        "code": "pg.tnarasipurtalukahospital"
+    },
+    {
+        "code": "pg.channapatnatalukhospital"
+    },
+    {
+        "code": "pg.kanakapuratalukhospital"
+    },
+    {
+        "code": "pg.magaditalukhospital"
+    },
+    {
+        "code": "pg.bhadravathitalukhospital"
+    },
+    {
+        "code": "pg.hosanagartalukhospital"
+    },
+    {
+        "code": "pg.shikaripuratalukhospital"
+    },
+    {
+        "code": "pg.thirthahallitalukhospital"
+    },
+    {
+        "code": "pg.chikkaayakanhallitalukhospital"
+    },
+    {
+        "code": "pg.gubbitalukhospital"
+    },
+    {
+        "code": "pg.koratageretalukhospital"
+    },
+    {
+        "code": "pg.madhugiritalukhospital"
+    },
+    {
+        "code": "pg.pavagadatalukhospital"
+    },
+    {
+        "code": "pg.siratalukhospital"
+    },
+    {
+        "code": "pg.tipturtalukhospital"
+    },
+    {
+        "code": "pg.turuvekeretalukhospital"
+    },
+    {
+        "code": "pg.karkalatalukhospital"
+    },
+    {
+        "code": "pg.kundapuratalukhospital"
+    },
+    {
+        "code": "pg.bhatkaltalukhospital"
+    },
+    {
+        "code": "pg.haliyalatalukhospital"
+    },
+    {
+        "code": "pg.honnavaratalukhospital"
+    },
+    {
+        "code": "pg.kumtatalukhospital"
+    },
+    {
+        "code": "pg.siddapuratalukhospital"
+    },
+    {
+        "code": "pg.sirsitalukhospital"
+    },
+    {
+        "code": "pg.joidatalukhospital"
+    },
+    {
+        "code": "pg.adagalitalukhospital"
+    },
+    {
+        "code": "pg.hagribommanahallitalukhospital"
+    },
+    {
+        "code": "pg.hospettalukhospital"
+    },
+    {
+        "code": "pg.kudilgitalukhospital"
+    },
+    {
+        "code": "pg.harpanahallitalukhospital"
+    },
+    {
+        "code": "pg.shahpurtalukahospital"
+    },
+    {
+        "code": "pg.surapurtalukshospitals"
+    }
       
       ]
     }
