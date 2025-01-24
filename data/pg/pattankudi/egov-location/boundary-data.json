@@ -1,5 +1,5 @@
 {
-  "tenantId": "pg.wadwatti",
+  "tenantId": "pg.pattankudi",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -15,7 +15,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "pg.wadwatti",
+        "code": "pg.pattankudi",
         "children": [
           {
             "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
@@ -3648,7 +3648,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "pg.wadwatti",
+        "code": "pg.pattankudi",
         "children": [
           {
             "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
